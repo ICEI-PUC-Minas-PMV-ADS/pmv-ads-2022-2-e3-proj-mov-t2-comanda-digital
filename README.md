@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Comanda Digital
 
-`CURSO`
+`CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`DISCIPLINA: Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiene de Negócio`
 
-`SEMESTRE`
+`SEMESTRE: 2° Semestre de 2022`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Soares Alves da Silva
+* André Vieira Grochowski
+* Daniel Begas
+* Lívia Cristina
+* Robson Levi Mariano Eduardo
+* Vânia Maria Tiburzio Rezende
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
