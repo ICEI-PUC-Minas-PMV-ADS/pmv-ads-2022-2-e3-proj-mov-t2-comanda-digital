@@ -154,6 +154,28 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+## Gestão de Orçamento
 
-![Orçamento](img/02-orcamento.png)
+<p align="justify">Os valores dos custos do projeto foram calculados com a estimativa de tempo de quatro meses, utilizando seis profissionais. Qualquer alteração de custos que ultrapassar a estimativa da linha de base deverá ser avaliada pelo cliente e gerente do projeto.</p>
+
+| Recursos Necessários | Valor         |
+| -------------------- | ------------- |
+| Recursos Humanos     | R$ 230.400,00 |
+| Hardware             | R$ 6.000,00   |
+| Rede                 | R$ 2.400,00   |
+| Software             | R$ 480,00     |
+| Serviços             | R$ 1.200,00   |
+| Total                | R$ 240.600,00 |
+
+<p align="justify">Cálculo:
+
+Recursos Humanos = 6 Profissionais x R$ 60,00/hora x 640 horas (4 meses) = R$ 230.400,00
+
+Hardware = 6 locações Notebooks x R$ 250,00/Mês x 4 Meses = R$ 6.000,00
+
+Rede = 6 internet banda larga x R$ 100,00/Mês x 4 Meses = R$ 2.400,00
+
+Softwares = 6 locações (windows, office) x R$ 20,00/Mês x 4 Meses = R$ 480,00
+
+Serviços = 6 despesas (energia, hospedagem) x R$ 50,00/Mês x 4 Meses = R$ 1.200,00.</p>
+
