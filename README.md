@@ -4,7 +4,7 @@
 
 `DISCIPLINA: Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiene de Negócio`
 
-`SEMESTRE: 2° Semestre de 2022`
+`3° Período`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
