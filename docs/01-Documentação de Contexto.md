@@ -16,12 +16,17 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+<p align="justify">O objetivo central deste projeto consiste na criação de uma aplicação móvel de gestão de pedidos focado em um bar que possibilite uma agilização nas solicitações de pedidos e nos atendimentos aos clientes do Bar.</p>
+
+<p align="justify">Entre os objetivos específicos temos:</p>
+
+•	Disponibilizar um sistema de comanda digital. <br>
+•	Possibilitar um controle de pedidos de pedidos maior ao bar. <br>
+•	Disponibilizar aos clientes do bar menu digital, contendo valores de cada prato e ou bebidas, além do tempo de espera. <br>
+•	Permitir aos clientes os acompanhamentos de seus pedidos. <br>
+•	Fornecer ao Bar um sistema que permita, através de uma conta de administrador do sistema, adicionar, remover ou editar informações relevantes ao seu menu digital. <br>
+•	Garantir a segurança e privacidade de informações e dados do sistema.
 
 ## Justificativa
 
