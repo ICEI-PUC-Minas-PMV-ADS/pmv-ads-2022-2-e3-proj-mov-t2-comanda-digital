@@ -166,7 +166,7 @@ Analista de Banco de Dados: André Vieira
 
 Analista de Testes: Robson Levi
 
-![gerenciamento equipe](https://github.com/avgro/pucminas-eixo3-AppEscola/blob/main/docs/img/tabelagerenciamentodeequipe.png)
+![gerenciamento equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/tabelagerenciamentodeequipe.png)
 
 ## Gestão de Orçamento
 
