@@ -101,43 +101,27 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ### Requisitos não Funcionais
 
-<<<<<<< Updated upstream
 | ID | Descrição do Requisito | Prioridade |
 | ------ | -----------------------------------------------------------------------------------------------------------------------| ---------- |
 | RNF-01 | A aplicação deve ser compatível com sistemas Android e IOS. | Alta |
 | RNF-02 | A aplicação deverá ser feita com a tecnologia React Native. | Alta |
 | RNF-03 | A aplicação deve possuir interface intuitiva. | Média |
-=======
-| ID | Descrição do Requisito | Prioridade |
-| ------ | ----------------------------------------------------------- | ----- |
-| RNF-01 | A aplicação deve ser compatível com sistemas Android e IOS. | Alta |
-| RNF-02 | A aplicação deverá ser feita com a tecnologia React Native. | Alta |
-| RNF-03 | A aplicação deve possuir interface intuitiva. | Média |
 | RNF-04 | A aplicação deve poder ser aberta em navegador web. | Baixa |
-| RNF-05 | A aplicação deve possuir uma tela de navegação | |
-| | com elementos bem definidos e uma navegabildiade fluída. | Baixa |
+| RNF-05 | A aplicação deve possuir uma tela de navegação com elementos bem definidos e uma navegabildiade fluída. | Baixa |
 
-> > > > > > > Stashed changes
 
 ## Restrições
 
 <p align="justify">O projeto está restrito pelos itens apresentados na tabela a seguir.</p>
 
-<<<<<<< Updated upstream
 | ID | Restrição |
 | ----- | --------------------------------------------------------------------------- |
 | RE-01 | O projeto deverá ser entregue no final do semestre letivo. |
 | RE-02 | A equipe não pode subcontratar o desenvolvimento do trabalho. |
 | RE-03 | Só poderão ser utilizados programas gratuítos ou fornecidos pela PUC Minas. |  
-=======
-| ID | Restrição |
-| ----- | --------------------------------------------------------------------------- |
-| RE-01 | O projeto deverá ser entregue no final do semestre letivo. |
-| RE-02 | A equipe não pode subcontratar o desenvolvimento do trabalho. |
-| RE-03 | Só poderão ser utilizados programas gratuítos ou fornecidos pela PUC Minas. |
 | RE-04 | O projeto deve ser documentado no GitHub. |
 
-> > > > > > > Stashed changes
+
 
 ## Diagrama de Casos de Uso
 
