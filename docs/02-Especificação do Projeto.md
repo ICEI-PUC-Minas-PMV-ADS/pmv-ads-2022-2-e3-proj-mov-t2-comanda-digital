@@ -127,7 +127,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 <p align="justify">O diagrama abaixo ilustra as principais ligações entre casos de uso e atores relacionados aos Requisitos Funcionais levantados para o projeto.</p>
 
-![Diagrama de Casos de Uso Comanda_Digital_ADS_2022](https://github.dev/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.jpeg)
+![Diagrama de Casos de Uso Comanda_Digital_ADS_2022](ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/docs/img/Diagrama de Casos de Uso.png)
 
 <p align="center">
 <b>Figura 1 </b> – Diagrama de casos de uso.
