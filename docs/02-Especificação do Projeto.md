@@ -2,49 +2,65 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<p align="justify">As personas elaboradas durante o processo de definição do problema são apresentadas nas figuras a seguir:</p>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Rafaela Miranda                                                                                                                                                                                  | Informações:                                                                                                                                |                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![RM](https://user-images.githubusercontent.com/74699119/157868822-a1647845-d66c-4cfc-8007-2a560dddf4de.png)                                                                                     | **Idade:** 35 <br> **Ocupação:** Gerente de RH,                                                                                             | **Aplicativos:**<br><ul>● Facebook<br>● Netflix<br>● Twitter<br>● Instagram</ul>                 |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Encontrar com amigos, conversar e se divertir. <br>● Conhecer novos bares da sua cidade <br>● Ter boas experiências ao sair.</ul> | **Frustrações:**<br><ul>● Morosidade no atendimento. <br>● Falta de praticidade ao fazer um pedido. <br>● Contas com erros de pedido. </ul> | **Hobbies:**<br><ul>● Ler livros<br>● Viajar com a família <br>● Sair com amigos e família.</ul> |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| Sebastião Silva                                                                                                                                      | Informações:                                                                                                      |                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| ![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)                                         | **Idade:** 40 <br> **Ocupação:** Empresário                                                                       | **Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>                           |
+| **Motivações:**<br><ul>● Facilitar o processo de atendimento no seu bar <br>● Aumentar as vendas<br>● Melhorar experiência do seus consumidores</ul> | **Frustrações:**<br><ul>● Pedidos errados ou incompletos <br>● Atendimento ruim <br>● Clientes insatisfeitos</ul> | **Hobbies:**<br><ul>● Assistir futebol<br>● Assistir filmes <br>● Pescar</ul> |
+
+| Flávia de Souza                                                                                                                   | Informações:                                                                    |                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![FS](https://user-images.githubusercontent.com/74699119/157870593-47e85e52-7a86-4f5f-9795-62976f2056ae.png)                      | **Idade:** 50 <br> **Ocupação:** Diretora de escola                             | **Aplicativos:**<br><ul>● Facebook<br>● Whatsapp<br>● Gmail</ul> |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Comidas gostosas<br>● Boa localização<br>● Local ser estiloso</ul> | **Frustrações:**<br><ul>● Demora na entrega do pedido<br>● Filas de espera</ul> | **Hobbies:**<br><ul>● Viajar<br>● Jardinagem <br>● Yoga</ul>     |
+
+| Renato Moreira                                                                                                                                               | Informações:                                                      |                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)                                                | **Idade:** 25 <br> **Ocupação:** Desenvolvedor de Sistemas        | **Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram <br>● Zé Delivery</ul> |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Ver jogos de futebol <br>● Sair com a namorada<br>● Sair com amigos aos finais de semana</ul> | **Frustrações:**<br><ul>● Divisões de conta<br>● Bares caros</ul> | **Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>             |
+
+| Mariana Rezende                                                                                                                      | Informações:                                                                                |                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![MR](https://user-images.githubusercontent.com/74699119/157870547-f569bef9-c35f-4894-a846-0c8a56ffdb01.png)                         | **Idade:** 25 <br> **Ocupação:** Professora de educação infantil                            | **Aplicativos:**<br><ul>● Youtube<br>● Gmail<br>● Instagram</ul>    |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Entretenimento<br>● Sair com amigos<br>● Ver pessoas <br>● Comer</ul> | **Frustrações:**<br><ul>● Locais muito barulhentos<br>● Dificuldade em fazer um pedido</ul> | **Hobbies:**<br><ul>● Assistir séries<br>● Passeios com amigos</ul> |
+
+| Fernanda Teixeira                                                                                                      | Informações:                                                                     |                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![FT](https://user-images.githubusercontent.com/74699119/157868769-c4830081-16db-45c5-8e95-a8f8805fce56.png)           | **Idade:** 19 <br> **Ocupação:** Garçonete                                       | **Aplicativos:**<br><ul>● Youtube<br>● Whatsapp<br>● Kindle</ul>                                    |
+| **Motivações:**<br><ul>● Facilitar o antendimento<br>● Contas estarem certas <br>● Pedidos feitos de forma rápida</ul> | **Frustrações:**<br><ul>● Reclamações de clientes<br>● Erros de atendimento</ul> | **Hobbies:**<br><ul>● Leitura <br>● Sair com o namorado <br>● Filmes <br>● Cuidar de seus cães</ul> |
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<p align="justify">Com base na compreensão da rotina das personas elaboradas para este projeto, foram registradas as histórias de usuário mostradas a seguir.</p>
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                               | PARA ... `MOTIVO/VALOR`                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Rafaela Miranda      | Ter um prazo de finalização do pedido.                                                           | Ter um controle do tempo de preparo e saber se está perto de ser finalizado.                 |
+| Sebastião Silva      | De uma comunicação mais assertiva e direta com o cliente.                                        | Fornecer um atendimento mais ágil e prático em situações de superlotação.                    |
+| Flávia de Souza      | Que meus pais sejam informados de todas as novas informações/atualizações vindas da escola.      | Para que meus pais estejam mais presentes na minha vida escolar e possam me auxiliar melhor. |
+| Flávia de Souza      | Comunicar os responsáveis dos alunos sobre eventos importantes e reuniões de pais e professores. | Aumentar a adesão dos pais às reuniões e eventos                                             |
+| Renato Moreira       | Visualizar o quantitativo e o valor total do pedido.                                             | Poder controlar meus gastos e, assim, ter uma divisão na carteira.                           |
+| Renato Moreira       | Poder filtrar os produtos por preços na ordem crescente e descrecente.                           | Ter um facilidade de encontrar os produtos com preços mais baixos.                           |
+| Mariana Rezende      | Realizar meu pedido sem precisar digitar texto, ou seja, selecionando o produto e a quantidade.  | Obter um processo de pedido simples e confiável.                                             |
+| Fernanda Teixeira    | Receber uma notificação informando o produto pedido pelo cliente.                                | Evitar falhas na comunicação e pedidos incorretos.                                           |
+| Fernanda Teixeira    | Receber um feedback do consumidor pelo atendimento prestado.                                     | Identificar os pontos que é preciso melhorar no meu trabalho.                                |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Modelagem do Processo de Negócio 
+## Modelagem do Processo de Negócio
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional.
 
 ### Descrição Geral da Proposta
 
@@ -52,7 +68,7 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 ### Processo 1 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
@@ -64,16 +80,14 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores.
 
-Usar o seguinte modelo: 
+Usar o seguinte modelo:
 
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori.
 
 ## Requisitos
-
-<p align="justify">As questões que delimitam o escopo funcional do projeto são definidas por meio dos requisitos funcionais, que descrevem as funcionalidades através das quais o usuário pode interagir com o sistema, e dos requisitos não funcionais, que descrevem as qualidades que o sistema deve apresentar para sua aceitação. Os requisitos funcionais e não funcionais do projeto são apresentados nas tabelas a seguir.</p>
 
 ### Requisitos Funcionais
 
@@ -85,56 +99,61 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 | RF-04 | A aplicação deverá mostrar a prévia de sua conta ao cliente               | Média      |
 | RF-05 | A aplicação deverá permitir que o cliente peça o fechamento de sua conta. | Média      |
 
-
 ### Requisitos não Funcionais
 
+<<<<<<< Updated upstream
 | ID | Descrição do Requisito | Prioridade |
-| ------ | ------------------------------------------------------| ---------- |
+| ------ | -----------------------------------------------------------------------------------------------------------------------| ---------- |
+| RNF-01 | A aplicação deve ser compatível com sistemas Android e IOS. | Alta |
+| RNF-02 | A aplicação deverá ser feita com a tecnologia React Native. | Alta |
+| RNF-03 | A aplicação deve possuir interface intuitiva. | Média |
+=======
+| ID | Descrição do Requisito | Prioridade |
+| ------ | ----------------------------------------------------------- | ----- |
 | RNF-01 | A aplicação deve ser compatível com sistemas Android e IOS. | Alta |
 | RNF-02 | A aplicação deverá ser feita com a tecnologia React Native. | Alta |
 | RNF-03 | A aplicação deve possuir interface intuitiva. | Média |
 | RNF-04 | A aplicação deve poder ser aberta em navegador web. | Baixa |
-| RNF-05 | A aplicação deve possuir uma tela de navegação com elementos bem definidos e uma navegabildiade fluída. | Baixa |
+| RNF-05 | A aplicação deve possuir uma tela de navegação | |
+| | com elementos bem definidos e uma navegabildiade fluída. | Baixa |
 
+> > > > > > > Stashed changes
 
 ## Restrições
 
 <p align="justify">O projeto está restrito pelos itens apresentados na tabela a seguir.</p>
 
+<<<<<<< Updated upstream
 | ID | Restrição |
-| ----- | ------------------------------------------------------------------- |
+| ----- | --------------------------------------------------------------------------- |
 | RE-01 | O projeto deverá ser entregue no final do semestre letivo. |
 | RE-02 | A equipe não pode subcontratar o desenvolvimento do trabalho. |
 | RE-03 | Só poderão ser utilizados programas gratuítos ou fornecidos pela PUC Minas. |  
+=======
+| ID | Restrição |
+| ----- | --------------------------------------------------------------------------- |
+| RE-01 | O projeto deverá ser entregue no final do semestre letivo. |
+| RE-02 | A equipe não pode subcontratar o desenvolvimento do trabalho. |
+| RE-03 | Só poderão ser utilizados programas gratuítos ou fornecidos pela PUC Minas. |
 | RE-04 | O projeto deve ser documentado no GitHub. |
 
+> > > > > > > Stashed changes
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+<p align="justify">O diagrama abaixo ilustra as principais ligações entre casos de uso e atores relacionados aos Requisitos Funcionais levantados para o projeto.</p>
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+![Diagrama de Casos de Uso AppEscola_ADS_2022](https://user-images.githubusercontent.com/74699119/157866297-7675167a-be7a-4fbb-907d-463f77012dd0.png)
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+<p align="center">
+<b>Figura 1 </b> – Diagrama de casos de uso.
+</p>
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+<p align="justify">Atualmente, observando os requisitos que foram levantados a matriz de rastreabilidade foi elaborada de forma a permitir aos profissionais a visualização da correlação entre os requisitos de software.</p>
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
+![matriz de rastreabildiade](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Matriz%20de%20rastreabilidade.png)
 
 # Gerenciamento de Projeto
 
@@ -192,4 +211,3 @@ Rede = 6 internet banda larga x R$ 100,00/Mês x 4 Meses = R$ 2.400,00
 Softwares = 6 locações (windows, office) x R$ 20,00/Mês x 4 Meses = R$ 480,00
 
 Serviços = 6 despesas (energia, hospedagem) x R$ 50,00/Mês x 4 Meses = R$ 1.200,00.</p>
-
