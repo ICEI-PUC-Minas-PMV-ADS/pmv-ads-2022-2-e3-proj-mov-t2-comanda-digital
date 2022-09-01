@@ -28,22 +28,20 @@ Companheira de décadas de bares e restaurantes, a comanda de papel, apesar de t
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+<p align="justify">Um levantamento feito pelos membros da equipe através de pesquisas in loco, bem como através da internet, demonstrou que muitas empresas do ramo alimentício e lazer estão investindo na utilização de aplicativos para aumentar seu alcance e entregar seus produtos para diversos consumidores de forma facilitada, como Ifood e Zé Delivery. Além disso, muitos bares estão cada vez mais utilizando apps de gerenciamento de pedidos, com o foco de gestão financeira do bar, mas ainda mantendo o uso das famosas comandas de papel, elemento este que gera uma redundância de informações.</p>
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+<p align="justify">Dito isso, foi observado que apesar de já gerenciarem os pedidos internamente, muitos bares ainda fazem uso de comandas em papel ou até mesmo não utilizam nenhum mecanismo que dê visibilidade mínima ao consumidor sobre seus produtos pedidos. Assim, vemos fortes indícios da necessidade de promover a transparência para os clientes de bares, sobretudo, permitindo que eles gerenciem de forma facilitada seu consumo atual, subvalores e possíveis interações com o atendente do bar, inclusive realizando pedidos.</p>
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+<p align="justify">Observações como estas nos mostram que grande parte dos bares nos anos de pandemia se preocuparam em entregar seus produtos aos consumidores como uma forma de driblar a impossibilidade de consumo no local, mas agora, com as menores restrições, os bares terão seus bares sendo visitados com maior frequência e esta demanda será uma nova oportunidade de modernizar mais ainda sua empresa e gerar uma nova geração de melhores experiências do usuário.</p>
+
+<p align="justify">Baseado nisto, esse projeto visa desenvolver uma aplicação que permita uma integração digital do bar com seu consumidor, gerando uma maior transparência do consumo, gerenciamento do cardápio e facilitando agilizando os pedidos dos clientes.</p>
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+<p align="justify">O foco da aplicação está nos estabelecimentos que fornecem serviços de alimentação e bebidas, cujo tem como sua atividade principal o CNAE - 5611-2 e no consumidor final que será qualquer pessoa, incluindo as PCDs.</p>
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+<p>Atores:<p>
+<p>- Estabelecimento de alimentação ou bebida, como: Restaurantes, bares e entre outros que realizam serviços similares.<p>
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+<p>- Consumidor final: Qualquer pessoa que tenha condições de pagar pelo serviço e produto usufruído.<p>
+
