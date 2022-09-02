@@ -46,7 +46,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                               | PARA ... `MOTIVO/VALOR`                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-
+| Rafaela Miranda      | Ter um prazo de finalização do pedido.                                                           | Ter um controle do tempo de preparo e saber se está perto de ser finalizado.                 |
+| Sebastião Silva      | De uma comunicação mais assertiva e direta com o cliente.                                        | Fornecer um atendimento mais ágil e prático em situações de superlotação.                    |
+| Flávia de Souza      | Que meus pais sejam informados de todas as novas informações/atualizações vindas da escola.      | Para que meus pais estejam mais presentes na minha vida escolar e possam me auxiliar melhor. |
+| Flávia de Souza      | Comunicar os responsáveis dos alunos sobre eventos importantes e reuniões de pais e professores. | Aumentar a adesão dos pais às reuniões e eventos                                             |
+| Renato Moreira       | Visualizar o quantitativo e o valor total do pedido.                                             | Poder controlar meus gastos e, assim, ter uma divisão na carteira.                           |
+| Renato Moreira       | Poder filtrar os produtos por preços na ordem crescente e descrecente.                           | Ter um facilidade de encontrar os produtos com preços mais baixos.                           |
+| Mariana Rezende      | Realizar meu pedido sem precisar digitar texto, ou seja, selecionando o produto e a quantidade.  | Obter um processo de pedido simples e confiável.                                             |
+| Fernanda Teixeira    | Receber uma notificação informando o produto pedido pelo cliente.                                | Evitar falhas na comunicação e pedidos incorretos.                                           |
+| Fernanda Teixeira    | Receber um feedback do consumidor pelo atendimento prestado.                                     | Identificar os pontos que é preciso melhorar no meu trabalho.                                |
 
 ## Modelagem do Processo de Negócio
 
