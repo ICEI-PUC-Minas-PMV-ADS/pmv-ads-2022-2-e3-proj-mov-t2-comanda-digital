@@ -192,3 +192,11 @@ Rede = 6 internet banda larga x R$ 100,00/Mês x 4 Meses = R$ 2.400,00
 Softwares = 6 locações (windows, office) x R$ 20,00/Mês x 4 Meses = R$ 480,00
 
 Serviços = 6 despesas (energia, hospedagem) x R$ 50,00/Mês x 4 Meses = R$ 1.200,00.</p>
+
+## Gerenciamento de Cronograma
+
+<p align="justify">Conforme avanço do projeto o cronograma será atualizado.</p>
+
+![Gerenciamento de cronograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto-1.png)
+
+● ![Gerenciamento de cronograma Excel](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto%20-%20Comanda%20(1).xlsx)
