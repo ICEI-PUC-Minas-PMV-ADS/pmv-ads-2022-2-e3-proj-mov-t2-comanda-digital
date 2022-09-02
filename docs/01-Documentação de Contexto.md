@@ -38,5 +38,10 @@ Companheira de décadas de bares e restaurantes, a comanda de papel, apesar de t
 
 ## Público-Alvo
 
+<p align="justify">O foco da aplicação está nos estabelecimentos que fornecem serviços de alimentação e bebidas, cujo tem como sua atividade principal o CNAE - 5611-2 e no consumidor final que será qualquer pessoa, incluindo as PCDs.</p>
 
+<p>Atores:<p>
+<p>- Estabelecimento de alimentação ou bebida, como: Restaurantes, bares e entre outros que realizam serviços similares.<p>
+
+<p>- Consumidor final: Qualquer pessoa que tenha condições de pagar pelo serviço e produto usufruído.<p>
 
