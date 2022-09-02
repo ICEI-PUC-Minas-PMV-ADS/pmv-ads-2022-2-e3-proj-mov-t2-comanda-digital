@@ -122,7 +122,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Diagrama de Casos de Uso
 
-<p align="justify">O diagrama abaixo ilustra as principais ligações entre casos de uso e atores relacionados aos Requisitos Funcionais levantados para o projeto.</p>
+<p align="justify">O diagrama abaixo ilustra as principais ligações entre casos de uso e os atores relacionados aos Requisitos Funcionais levantados para o projeto.</p>
 
 ![Diagrama de Casos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png)
 
