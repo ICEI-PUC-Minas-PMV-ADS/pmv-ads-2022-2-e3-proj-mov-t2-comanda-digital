@@ -6,7 +6,7 @@
 
 `3° Período`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A proposta deste trabalho é inovar a gestão de pedidos de um bar com o desenvolvimento de uma aplicação móvel para substituir a "comanda de papel", registrando os pedidos feitos pelos clientes e agilizando o atendimento do garçom.
 
 ## Integrantes
 
