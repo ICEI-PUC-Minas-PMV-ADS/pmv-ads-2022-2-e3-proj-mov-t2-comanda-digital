@@ -1,4 +1,5 @@
 # Especificações do Projeto
+
  <p align="justify">A definição precisa do problema e dos pontos mais relevantes deste
 projeto foi feita a partir de entrevistas realizadas pelos membros da
 equipe com pessoas de sexos distintos, de idades entre 18 e 50 anos que
@@ -43,17 +44,17 @@ estabelecimento.</p>
 
 <p align="justify">Com base na compreensão da rotina das personas elaboradas para este projeto, foram registradas as histórias de usuário mostradas a seguir.</p>
 
-| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                               | PARA ... `MOTIVO/VALOR`                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-|Rafaela Miranda     | Ter um prazo de finalização do pedido.| Ter um controle do tempo de preparo e saber se está perto de ser finalizado.|
-|Sebastião Silva     | De uma comunicação mais assertiva e direta com o cliente.| Fornecer um atendimento mais ágil e prático em situações de superlotação.|
-|Sebastião Silva     | Otimizar e automatizar os processos na minha empresa.| Reduzir o tempo de trabalho manual dos funcionários e, consequentemente, isso irá aumentar minha produção e vendas.|
-|Flávia de Souza     | Avaliar a estrutura do estabelecimento, o atendimento, os pratos ou bebibas.| Informar os itens que devem ser melhorados e, assim, contribuir para o aperfeiçoamento do estabelecimento.|
-|Renato Moreira      | Visualizar o quantitativo e o valor total do pedido.| Poder controlar meus gastos e, assim, ter uma divisão na carteira.|
-|Renato Moreira      | Poder filtrar os produtos por preços na ordem crescente e descrecente.| Ter um facilidade de encontrar os produtos com preços mais baixos.|
-|Mariana Rezende     | Realizar meu pedido sem precisar digitar texto, ou seja, selecionando o produto e a quantidade.| Obter um processo de pedido simples e confiável.|
-|Fernanda Teixeira   | Receber uma notificação informando o produto pedido pelo cliente.| Evitar falhas na comunicação e pedidos incorretos.|
-|Fernanda Teixeira   | Receber um feedback do consumidor pelo atendimento prestado.| Identificar os pontos que é preciso melhorar no meu trabalho.|
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                              | PARA ... `MOTIVO/VALOR`                                                                                             |
+| -------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Rafaela Miranda      | Ter um prazo de finalização do pedido.                                                          | Ter um controle do tempo de preparo e saber se está perto de ser finalizado.                                        |
+| Sebastião Silva      | De uma comunicação mais assertiva e direta com o cliente.                                       | Fornecer um atendimento mais ágil e prático em situações de superlotação.                                           |
+| Sebastião Silva      | Otimizar e automatizar os processos na minha empresa.                                           | Reduzir o tempo de trabalho manual dos funcionários e, consequentemente, isso irá aumentar minha produção e vendas. |
+| Flávia de Souza      | Avaliar a estrutura do estabelecimento, o atendimento, os pratos ou bebibas.                    | Informar os itens que devem ser melhorados e, assim, contribuir para o aperfeiçoamento do estabelecimento.          |
+| Renato Moreira       | Visualizar o quantitativo e o valor total do pedido.                                            | Poder controlar meus gastos e, assim, ter uma divisão na carteira.                                                  |
+| Renato Moreira       | Poder filtrar os produtos por preços na ordem crescente e descrecente.                          | Ter um facilidade de encontrar os produtos com preços mais baixos.                                                  |
+| Mariana Rezende      | Realizar meu pedido sem precisar digitar texto, ou seja, selecionando o produto e a quantidade. | Obter um processo de pedido simples e confiável.                                                                    |
+| Fernanda Teixeira    | Receber uma notificação informando o produto pedido pelo cliente.                               | Evitar falhas na comunicação e pedidos incorretos.                                                                  |
+| Fernanda Teixeira    | Receber um feedback do consumidor pelo atendimento prestado.                                    | Identificar os pontos que é preciso melhorar no meu trabalho.                                                       |
 
 ## Modelagem do Processo de Negócio
 
@@ -85,6 +86,13 @@ Usar o seguinte modelo:
 
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori.
+
+| ID                       | Objetivos                            | Descrição                    | Calc                          | Fonte de Dados | Perspectiva             |
+| ------------------------ | ------------------------------------ | ---------------------------- | ----------------------------- | -------------- | ----------------------- |
+| Eficácia de atendimento  | Avaliar o percentual de atendimentos | Percentual de atendimentos   | (Atend.<1min/Atend.Total)/100 | Aplicação      | Melhoria de atendimento |
+|                          | iniciados rapidamente                | iniciados em menos de 1 min. |                               |                |                         |
+| Qualidade de atendimento | Avaliar o percentual de atendimentos | Percentual de atendimentos   | (Atend.5estrelas/Atend.Total) | Pesquisa de    | Melhoria de atendimento |
+|                          | cinco estrelas                       | com feedback 5 estrelas.     | /100                          | satisfação     |                         |
 
 ## Requisitos
 
@@ -198,4 +206,4 @@ Serviços = 6 despesas (energia, hospedagem) x R$ 50,00/Mês x 4 Meses = R$ 1.20
 
 ![Gerenciamento de cronograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto-1.png)
 
-● ![Gerenciamento de cronograma Excel](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto%20-%20Comanda%20(1).xlsx)
+● ![Gerenciamento de cronograma Excel](<https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto%20-%20Comanda%20(1).xlsx>)
