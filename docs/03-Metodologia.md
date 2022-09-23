@@ -57,6 +57,30 @@ Aequipe está organizada da eguinte maneira:
 
 ### Processo
 
+<p align="justify">Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro Kanban (Trello) construído com as seguintes listas:</p>
+
+- **Backlog:** Nesta lista estão os itens a serem implementados do projeto, são alocados em cartões individuais. A lista também reúne itens que o time deseja trabalhar ou nos quais precisará trabalhar no futuro, mas que ainda estão sendo avaliados.
+- **Em andamento:** Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+- **Concluído:** Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Pois já foram revisadas e aprovadas, não há mais edições ou revisões necessárias.
+
+
+<p align="justify">O quadro Kanban do grupo no Trello está disponível através da seguinte URL:
+<br>
+https://trello.com/b/lmrA1giu/eixo-3-app-gest%C3%A3o-de-comanda
+<br>
+Este quadro é apresentado, no estado atual, na figura a seguir:</p>
+   
+![kanban_aplicao_escolar](https://user-images.githubusercontent.com/74699119/159126256-41b9e6b5-ba53-4fb8-b330-8791734e1cd4.png)
+<p align="center"><b>Figura 3</b> - Tela do kanban (Trello) utilizada pelo grupo</p>
+<br>
+
+<p align="justify">Os itens são ainda, etiquetados em função da natureza da atividade e da Sprint a qual são alocados, seguindo as seguintes categorias:
+
+- **Documentação:** Elaborar parte da documentação do projeto
+- **Funcionalidade:** Implementar uma funcionalidade específica no projeto
+- **Sprint:** Sprint na qual a tarefa será trabalhada
+</p>
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
