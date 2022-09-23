@@ -108,6 +108,9 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 | RF-03 | A aplicação deverá notificar o pedido ao garçom.                          | Alta       |
 | RF-04 | A aplicação deverá mostrar a prévia de sua conta ao cliente               | Média      |
 | RF-05 | A aplicação deverá permitir que o cliente peça o fechamento de sua conta. | Média      |
+| RF-06 | A aplicação deverá permitir que o administrador abra a comanda.           | Alta      |
+| RF-07 | A aplicação deverá permitir que o administrador atualize o cardápio.      | Alta      |
+
 
 ### Requisitos não Funcionais
 
