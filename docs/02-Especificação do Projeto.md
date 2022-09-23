@@ -87,12 +87,15 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori.
 
-| ID                       | Objetivos                            | Descrição                    | Calc                          | Fonte de Dados | Perspectiva             |
-| ------------------------ | ------------------------------------ | ---------------------------- | ----------------------------- | -------------- | ----------------------- |
-| Eficácia de atendimento  | Avaliar o percentual de atendimentos | Percentual de atendimentos   | (Atend.<1min/Atend.Total)/100 | Aplicação      | Melhoria de atendimento |
-|                          | iniciados rapidamente                | iniciados em menos de 1 min. |                               |                |                         |
-| Qualidade de atendimento | Avaliar o percentual de atendimentos | Percentual de atendimentos   | (Atend.5estrelas/Atend.Total) | Pesquisa de    | Melhoria de atendimento |
-|                          | cinco estrelas                       | com feedback 5 estrelas.     | /100                          | satisfação     |                         |
+
+| # |Indicador | Objetivos |  Descrição |  Cálculo | Fonte dados |  Perspectiva|  
+|---|-----------|----------|-------------|---------|------------|-----------------------|
+| 1 | Eficácia de atendimento | Avaliar o percentual de atendimentos iniciados rapidamente|Percentual de atendimentos iniciados em menos de um minuto|(Atend.<1min/Atend.Total)/100 | Aplicação | Melhoria no atendimento |
+| 2 | Qualidade do atendimentos | Avaliar o percentual de atendimentos 5 estrelas | Percentual de atendimentos com feedback 5 estrelas |(Atend.5estrelas/Atend.Total)/100 | Pesquisa de satisfação | Melhoria de atendimento |
+| 3 | Ticket médio | Avaliar se o valor médio gasto por cliente está diminuindo ou aumentando | Mede quanto os clientes gastam no estabelecimento, em média | Ticket médio = valor total de vendas no dia  dididido pelo total de clientes no dia | Aplicação  | Crescimento constante|
+| 4 |  |  |  | |   |  |
+| 5 |   |   |   |  |    |    |
+
 
 ## Requisitos
 
