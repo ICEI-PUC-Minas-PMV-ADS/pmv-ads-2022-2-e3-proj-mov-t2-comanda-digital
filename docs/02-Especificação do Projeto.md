@@ -94,7 +94,7 @@ Obs.: Todas as informações para gerar os indicadores devem estar no diagrama d
 | 1 | Eficácia de atendimento | Avaliar o percentual de atendimentos iniciados rapidamente|Percentual de atendimentos iniciados em menos de um minuto|(Atend.<1min/Atend.Total)/100 | Aplicação | Melhoria no atendimento |
 | 2 | Qualidade do atendimentos | Avaliar o percentual de atendimentos 5 estrelas | Percentual de atendimentos com feedback 5 estrelas |(Atend.5estrelas/Atend.Total)/100 | Pesquisa de satisfação | Melhoria de atendimento |
 | 3 | Ticket médio | Avaliar se o valor médio gasto por cliente está diminuindo ou aumentando | Mede quanto os clientes gastam no estabelecimento, em média | Ticket médio = valor total de vendas no dia  dididido pelo total de clientes no dia | Aplicação  | Crescimento constante|
-| 4 |  |  |  | |   |  |
+| 4 | Eficiência | Avaliar a capacidade do programa em si nas realizações de tarefas | Medir a velocidade para o processamento dos pedidos e das possíveis alterações que possam ser realizadas pelo cliente. | | Aplicação | Melhoria no Atendimento |
 | 5 |   |   |   |  |    |    |
 
 
