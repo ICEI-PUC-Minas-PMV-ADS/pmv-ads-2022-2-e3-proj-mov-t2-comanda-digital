@@ -85,7 +85,8 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 Usar o seguinte modelo:
 
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori.
+
+Obs.: Todas as informações para gerar os indicadores devem estar no diagrama de classes a ser apresentado a posteriori.
 
 
 | # |Indicador | Objetivos |  Descrição |  Cálculo | Fonte dados |  Perspectiva|  
@@ -161,7 +162,7 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Equipe
 
-<p align="justify"> O gerenciamento apropriado de tarefas contribuirá para que o projeto tenha um bom nível de produtividade. É fundamental que ocorra a gestão de tarefas e de pessoas, para que os profissionais envolvidos no projeto possam ser faclmente gerenciados.</p>
+<p align="justify"> O gerenciamento apropriado de tarefas contribuirá para que o projeto tenha um bom nível de produtividade. É fundamental que ocorra a gestão de tarefas e de pessoas, para que os profissionais envolvidos no projeto possam ser facilmente gerenciados.</p>
 
 Membros do time:
 
