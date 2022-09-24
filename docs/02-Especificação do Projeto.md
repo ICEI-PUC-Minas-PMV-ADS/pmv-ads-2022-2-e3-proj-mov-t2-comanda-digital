@@ -95,7 +95,7 @@ Obs.: Todas as informações para gerar os indicadores devem estar no diagrama d
 | 2 | Qualidade do atendimentos | Avaliar o percentual de atendimentos 5 estrelas | Percentual de atendimentos com feedback 5 estrelas |(Atend.5estrelas/Atend.Total)/100 | Pesquisa de satisfação | Melhoria de atendimento |
 | 3 | Ticket médio | Avaliar se o valor médio gasto por cliente está diminuindo ou aumentando | Mede quanto os clientes gastam no estabelecimento, em média | Ticket médio = valor total de vendas no dia  dididido pelo total de clientes no dia | Aplicação  | Crescimento constante|
 | 4 | Eficiência | Avaliar a capacidade do programa em si nas realizações de tarefas | Medir a velocidade para o processamento dos pedidos e das possíveis alterações que possam ser realizadas pelo cliente. | | Aplicação | Melhoria no Atendimento |
-| 5 |  Tempo de ciclo do pedido | Avaliar o tempo total entre o momento que o cliente fez o pedido, até que o produto chegou até ele.  | Calcular o tempo entre o cliente fazer o pedido e o pedido chegar até ele.  | Cálculo: Tempo de ciclo do pedido = hora do pedido - hora da entrega  | Aplicação   |  Melhorar a agilidade no atendimento  |
+| 5 |  Tempo de ciclo do pedido | Avaliar o tempo total entre o momento que o cliente fez o pedido, até que o produto chegou até ele.  | Calcular o tempo entre o cliente fazer o pedido e o pedido chegar até ele.  | Tempo de ciclo do pedido = hora do pedido - hora da entrega  | Aplicação   |  Melhorar a agilidade no atendimento  |
 
 
 ## Requisitos
