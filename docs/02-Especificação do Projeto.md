@@ -111,6 +111,7 @@ Obs.: Todas as informações para gerar os indicadores devem estar no diagrama d
 | RF-05 | A aplicação deverá permitir que o cliente peça o fechamento de sua conta. | Média      |
 | RF-06 | A aplicação deverá permitir que o administrador abra a comanda.           | Alta      |
 | RF-07 | A aplicação deverá permitir que o administrador atualize o cardápio.      | Alta      |
+| RF-08 | A aplicação deverá permitir que o cliente possa acompanhar o tempo do pedido pra ficar pronto.      | Média      |
 
 
 ### Requisitos não Funcionais
