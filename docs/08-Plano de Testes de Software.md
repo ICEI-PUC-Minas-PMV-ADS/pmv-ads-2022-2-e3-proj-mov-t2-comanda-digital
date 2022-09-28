@@ -7,7 +7,7 @@ Por meio desse plano de testes serão verificados e validados os requisitos para
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
 
-|Caso de teste 01     | CT 01 - Abrir mesa |
+|Caso de teste 01     | CT 01 - Abrir comanda |
 |-------|-------------------------
 |Requisitos Associados | 	 RF-06 A aplicação deve permitir que o administrador abra a comanda.
 |Objetivo do teste| Verificar se o sistema de abrtura de comanda pelo administrador está funcionando corretamente |
