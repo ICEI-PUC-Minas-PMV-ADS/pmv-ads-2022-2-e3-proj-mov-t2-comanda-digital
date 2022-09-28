@@ -21,14 +21,14 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Passos |	1) Acessar a aplicação. 2) Clicar em fechar comanda. |
 |Critérios de êxito| A conta deverá ser fechada finalizando os pedidos e mostrando o valor da conta para o cliente. |
 
-|Caso de teste 03     | CT 06 -  Editar itens do Cardápio |
+|Caso de teste 03     | CT 03 -  Editar itens do Cardápio |
 |-------|-------------------------
 |Requisitos Associados | 	 RF-07 A aplicação deve permitir ao administrador do sistema editar itens do cardápio.
 |Objetivo do teste| Verificar se o item foi alterado corretamente |
 |Passos |	1) Acessar a aplicação. 2) Clicar em editar cardápio. |
 |Critérios de êxito| O item deverá ser editado |
 
-|Caso de teste 04     | CT 09 -  Apagar item do cardápio |
+|Caso de teste 04     | CT 04 -  Apagar item do cardápio |
 |-------|-------------------------
 |Requisitos Associados | 	 RF-07 A aplicação deve permitir ao administrador do sistema apague um item do cardápio.
 |Objetivo do teste| Verificar se a funcionalidade de apagar item no sistema está funcionando adequadamente.  |
