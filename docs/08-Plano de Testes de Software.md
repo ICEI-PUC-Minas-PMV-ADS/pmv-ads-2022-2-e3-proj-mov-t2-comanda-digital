@@ -10,7 +10,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Caso de teste 01     | CT 01 - Abrir comanda |
 |-------|-------------------------
 |Requisitos Associados | 	 RF-06 A aplicação deve permitir que o administrador abra a comanda.
-|Objetivo do teste| Verificar se o sistema de abrtura de comanda pelo administrador está funcionando corretamente |
+|Objetivo do teste| Verificar se o sistema de abertura de comanda pelo administrador está funcionando corretamente |
 |Passos |	1) Acessar a aplicação. 2) Clicar em abrir comanda.  |
 |Critérios de êxito| Uma comanda nova deverá ser aberta pelo administrador. |
 
@@ -45,7 +45,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Caso de teste 06     | CT 06 -  A aplicação deverá notificar o pedido ao garçom |
 |-------|-------------------------
 |Requisitos Associados | 	 RF-01 RF-02 RF 03- A aplicação deve notificar o garçom sobre o pedido do cliente.
-|Objetivo do teste| Verificar se o usuário do tipo cliente consegue fazer seu pedido|
+|Objetivo do teste| Verificar se o usuário do tipo cliente consegue fazer seu pedido e posteriormente a notificação é feita ao garçom|
 |Passos |	1) Acessar a aplicação.	2) Adicionar itens ao pedido. 3) Confirmar pedido.|
 |Critérios de êxito| A notificação deve ser mostrada com sucesso ao garçom. |
 
