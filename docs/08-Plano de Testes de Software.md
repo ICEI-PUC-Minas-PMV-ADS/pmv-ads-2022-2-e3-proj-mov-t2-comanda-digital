@@ -39,7 +39,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |-------|-------------------------
 |Requisitos Associados | 	 RF-05 A aplicação deverá permitir que o administrador acesse sua area de gerenciamento dos produtos..
 |Objetivo do teste| Verificar se aplicação irá mostrar area de gerenciamento.  |
-|Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) No menu lateral ira ater os botões das areas de gerenciamento.|
+|Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) No menu lateral ira ter os botões das areas de gerenciamento.|
 |Critérios de êxito| O Administrador irá visualizar area de gerenciamentos dos produtos. |
 
 |Caso de teste 05    | CT 05 -  Cadastrar novo item ao Cardápio|
