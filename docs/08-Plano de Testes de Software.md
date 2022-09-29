@@ -21,12 +21,12 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Passos |	1) Acessar a aplicação. 2) Clicar em iniciar mesa para efetuar o pedido. |
 |Critérios de êxito| cliente poder inciar a mesa para efetuar o pedido. |
 
-|Caso de teste 03     | CT 03 -  Editar itens do Cardápio |
+|Caso de teste 03     | CT 03 -  Notificação do pedido ao garçom |
 |-------|-------------------------
-|Requisitos Associados | 	 RF-07 A aplicação deve permitir ao administrador do sistema editar itens do cardápio.
-|Objetivo do teste| Verificar se o item foi alterado corretamente |
-|Passos |	1) Acessar a aplicação. 2) Clicar em editar cardápio. |
-|Critérios de êxito| O item deverá ser editado |
+|Requisitos Associados | 	 RF-03 A aplicação deverá notificar o pedido ao garçom de forma instantaneamente.
+|Objetivo do teste| Verificar se aplicação notificou o garçom. |
+|Passos |	 |
+|Critérios de êxito| O garçom deverá ser notificado de forma instantanea. |
 
 |Caso de teste 04     | CT 04 -  Apagar item do cardápio |
 |-------|-------------------------
