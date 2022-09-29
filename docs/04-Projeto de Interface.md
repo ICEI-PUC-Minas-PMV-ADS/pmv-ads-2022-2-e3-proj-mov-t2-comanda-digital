@@ -43,7 +43,7 @@
 
  ### Tela - Menu Lateral
  
- <p align="justify"> </p>
+ <p align="justify"> Através do menu lateral disponibilizado ao longo de todo o app, o administrador poderá acessar todas as telas disponíveis no app, bem como visualizar notificações de pedidos feitos.</p>
  
  ![tela6](https://user-images.githubusercontent.com/91098261/192910468-3710d88b-aa1e-4f6b-b362-f85445e7fe7d.png)
 
