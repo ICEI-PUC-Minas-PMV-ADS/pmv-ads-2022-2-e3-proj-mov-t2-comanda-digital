@@ -3,11 +3,6 @@
 
 <p align="justify"> Para o desenvolvimento do sistema em questão, foram projetadas telas buscando-se uma identidade visual intuitiva e padronizada entre as diferentes telas do sistema. Com a navegação entre as diferentes funcionalidades ocorrendo através dos itens do cabeçalho e do menu lateral, que se encontram presentes em todas as telas.
  
-## Diagrama de Fluxo
-
-![Documento de equipe](https://user-images.githubusercontent.com/91098261/192907205-18858d8f-8b7c-4727-956d-bbd9a2ccfff9.png)
-<p align="center"><b>Figura 1</b> - Diagrama de fluxo do usuário do projeto</p>
-<br>
 
 ## Wireframes
 
