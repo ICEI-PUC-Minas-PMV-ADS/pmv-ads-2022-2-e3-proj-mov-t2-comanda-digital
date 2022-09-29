@@ -57,7 +57,7 @@
 
  ### Tela - Resumo de Pedidos
  
- <p align="justify"> Nesta tela o administrador poderá ver todas as mesas com pedidos, podendo visualizar os produtos requisitados e enviar o pedidos.</p>
+ <p align="justify"> </p>
  
  ![tela9](https://user-images.githubusercontent.com/91098261/192911449-4ffe87a6-00c3-4f0b-a9d2-99b8e1a58f62.png)
 
