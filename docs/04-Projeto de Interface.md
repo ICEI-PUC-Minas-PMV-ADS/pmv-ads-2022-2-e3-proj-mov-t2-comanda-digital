@@ -49,7 +49,7 @@
 
   ### Tela - Gerenciar Mesas
  
- <p align="justify"> Nesta tela o administrador poderá ver todas as mesas cadastradas na aplicação, bem como poderá visualizar o resumo dos pedidos de cada mesa. Além disso, o administrador nessa tela também poderá editar as mesas cadastradas.</p>
+ <p align="justify"> </p>
  
 ![tela7](https://user-images.githubusercontent.com/91098261/192911206-f1956e04-8797-4602-b096-564e1196946a.png)
 
