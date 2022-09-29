@@ -25,7 +25,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |-------|-------------------------
 |Requisitos Associados | 	 RF-03 A aplicação deverá notificar o pedido ao garçom de forma instantaneamente.
 |Objetivo do teste| Verificar se aplicação notificou o garçom. |
-|Passos |	 |
+|Passos |	1) Acessar a aplicação.	2) Adicionar itens ao pedido. 3) Confirmar pedido. |
 |Critérios de êxito| O garçom deverá ser notificado de forma instantanea. |
 
 |Caso de teste 04     | CT 04 -  Visualização de pedidos e mesas pelo Administrador |
@@ -34,6 +34,13 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Objetivo do teste| Verificar se aplicação irá mostrar os pedidos e mesas para o administrador.  |
 |Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) clicar no menu lateral. 4) clicar em resumos de pedidos e ou gerenciar mesas|
 |Critérios de êxito| O Administrador irá visualizar os resumos dos pedidos e as mesas. |
+
+|Caso de teste 05     | CT 05 -  Visualização da area de gerenciamento |
+|-------|-------------------------
+|Requisitos Associados | 	 RF-05 A aplicação deverá permitir que o administrador acesse sua area de gerenciamento dos produtos..
+|Objetivo do teste| Verificar se aplicação irá mostrar area de gerenciamento.  |
+|Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) No menu lateral ira ater os botões das areas de gerenciamento.|
+|Critérios de êxito| O Administrador irá visualizar area de gerenciamentos dos produtos. |
 
 |Caso de teste 05    | CT 05 -  Cadastrar novo item ao Cardápio|
 |-------|-------------------------
