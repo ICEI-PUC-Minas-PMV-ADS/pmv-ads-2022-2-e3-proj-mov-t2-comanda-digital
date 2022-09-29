@@ -7,19 +7,19 @@ Por meio desse plano de testes serão verificados e validados os requisitos para
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
 
-|Caso de teste 01     | CT 01 - Abrir comanda |
+|Caso de teste 01     | CT 01 - Mostrar o cardápio online de forma prática e detalhada|
 |-------|-------------------------
-|Requisitos Associados | 	 RF-06 A aplicação deve permitir que o administrador abra a comanda.
-|Objetivo do teste| Verificar se o sistema de abertura de comanda pelo administrador está funcionando corretamente |
-|Passos |	1) Acessar a aplicação. 2) Clicar em abrir comanda.  |
-|Critérios de êxito| Uma comanda nova deverá ser aberta pelo administrador. |
+|Requisitos Associados | 	 RF-01 A aplicação deverá exibir o cardápio de forma prática e detalhada.
+|Objetivo do teste| Verificar se aplicação irá exibir corretamente o cardápio.|
+|Passos |	1) Acessar a aplicação. 2) Clicar iniciar mesa para visualizar.  |
+|Critérios de êxito| Exibir o cardápio completo do estabelecimento. |
 
-|Caso de teste 02     | CT 02 - Fechar mesa |
+|Caso de teste 02     | CT 02 - Abrir a comanda para fazer o pedido |
 |-------|-------------------------
-|Requisitos Associados | 	 RF-05 A aplicação deve oferecer a opção de fechamento da conta tanto pelo cliente como pelo administrador.
-|Objetivo do teste|  Verificar se o sistema permite o fechamento da conta pelo cliente e pelo administrador |
-|Passos |	1) Acessar a aplicação. 2) Clicar em fechar comanda. |
-|Critérios de êxito| A conta deverá ser fechada finalizando os pedidos e mostrando o valor da conta para o cliente. |
+|Requisitos Associados | 	 RF-02 A aplicação deverá permitir ao cliente abrir a comanda para fazer seu pedido.
+|Objetivo do teste|  Verificar se o sistema permite o cliente e abrir a comanda para efetuar seu pedido. |
+|Passos |	1) Acessar a aplicação. 2) Clicar em iniciar mesa para efetuar o pedido. |
+|Critérios de êxito| cliente poder inciar a mesa para efetuar o pedido. |
 
 |Caso de teste 03     | CT 03 -  Editar itens do Cardápio |
 |-------|-------------------------
