@@ -68,15 +68,11 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 ### Processo 1 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
+## Diagrama de Fluxo
 
-![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![Documento de equipe](https://user-images.githubusercontent.com/91098261/192907205-18858d8f-8b7c-4727-956d-bbd9a2ccfff9.png)
+<p align="center"><b>Figura 1</b> - Diagrama de fluxo do usuário do projeto</p>
+<br>
 
 ## Indicadores de Desempenho
 
