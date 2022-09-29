@@ -28,12 +28,12 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Passos |	 |
 |Critérios de êxito| O garçom deverá ser notificado de forma instantanea. |
 
-|Caso de teste 04     | CT 04 -  Apagar item do cardápio |
+|Caso de teste 04     | CT 04 -  Visualização de pedidos e mesas pelo Administrador |
 |-------|-------------------------
-|Requisitos Associados | 	 RF-07 A aplicação deve permitir ao administrador do sistema apague um item do cardápio.
-|Objetivo do teste| Verificar se a funcionalidade de apagar item no sistema está funcionando adequadamente.  |
-|Passos |	1) Acessar a aplicação. 2) Clicar em Cardápio. 3) Selecionar item a ser excluído. 4) Excluir item do cardápio.|
-|Critérios de êxito| O item deve ser apagado com sucesso e não estar mais disponível no sistema. |
+|Requisitos Associados | 	 RF-04 A aplicação deverá permitir que o administrador visualize os resumos dos pedidos e as mesas.
+|Objetivo do teste| Verificar se aplicação irá mostrar os pedidos e mesas para o administrador.  |
+|Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) clicar no menu lateral. 4) clicar em resumos de pedidos e ou gerenciar mesas|
+|Critérios de êxito| O Administrador irá visualizar os resumos dos pedidos e as mesas. |
 
 |Caso de teste 05    | CT 05 -  Cadastrar novo item ao Cardápio|
 |-------|-------------------------
