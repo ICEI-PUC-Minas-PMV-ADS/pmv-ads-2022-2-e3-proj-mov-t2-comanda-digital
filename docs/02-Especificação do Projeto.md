@@ -66,6 +66,8 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
+## Diagrama de Fluxo de Processo 
+
 ### Processo 1 – Abertura de Mesa 
 
 <p align="justify">Neste processo, o cliente (usuário), ao chegar em sua mesa poderá iniciar a comanda através da função Iniciar Mesa, desta forma ele será direcionado para a tela de cardápio. Nesta tela o cliente (usuário) poderá visualizar todos os produtos, selecionando aqueles que desejar. Escolhidos os produtos, o cliente poderá revisar os itens, removendo ou adicionando itens, e por fim, realizando seu pedido.</p>
@@ -102,7 +104,7 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 <p align="justify"> Nessa tela o bar podeerá gerenciar os pedidos realizados, podendo visualizar o foi requisitado em cada mesa, se existem pedidos em aberto e enviando os produtos.</p>
 
-## Diagrama de Fluxo
+## Fluxograma de Processo 
 
 <p align="justify"> Os diagramas de fluxos de processos descritos acima se encontram reproduzidos na imagem a seguir:</p>
 
