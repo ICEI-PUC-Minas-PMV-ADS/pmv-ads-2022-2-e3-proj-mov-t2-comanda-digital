@@ -66,9 +66,45 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Abertura de Mesa 
+
+<p align="justify">Neste processo, o cliente (usuário), ao chegar em sua mesa poderá iniciar a comanda através da função Iniciar Mesa, desta forma ele será direcionado para a tela de cardápio. Nesta tela o cliente (usuário) poderá visualizar todos os produtos, selecionando aqueles que desejar. Escolhidos os produtos, o cliente poderá revisar os itens, removendo ou adicionando itens, e por fim, realizando seu pedido.</p>
+
+### Processo 2 – Realização de Pedido
+
+<p align="justify"> Após abria a mesa, e estando na tela de cardápio o cliente (usuário) poderá visualizar todos os produtos, selecionando aqueles que desejar. Escolhidos os produtos, o cliente poderá revisar os itens, removendo ou adicionando itens, e por fim, realizando seu pedido e retornando para a tela de cardápio. Ao final desta etapa o sistema enviará uma notificação ao bar para informar o pedido realizado.</p>
+
+### Processo 3 – Resumo da comanda e fechamento de comanda
+
+<p align="justify"> Ao final de sua consumação o cliente poderá acessar a tela de resumo de pedidos, onde poderá ver tudo o que foi consumido e requisar o fechamento da conta.</p>
+
+### Processo 4 – Recebimento de pedido
+
+<p align="justify"> Feito o pedido o bar será notificado, apresentando a mesa e os produtos, em seguida fará a preparação ou separação dos produtos e enviará ao cliente. </p>
+
+### Processo 5 – Fechamento da conta e Recebimento de pagamento
+
+<p align="justify"> Feito o pedido de fechamento de conta pelo cliente, o bar será notificado e fará o recebimento, encerrando o atendimento e o app será redirecionado para a tela inicial de abertura de mesa. </p>
+
+### Processo 6 – Acesso ao sistema pelo Estabelecimento
+
+<p align="justify"> Na tela de Home o estabelecimento poderá clicar no botão Acesso ao estabelecimento, sendo redirecionado para uma tela de login e senha. Após acessar, ele será redirecionado para a tela de gestão geral, podendo visualizar todos os produtos cadastrados e realizar ações de gerenciamento de itens.</p>
+
+### Processo 7 – Gerenciar mesas
+
+<p align="justify"> Nessa tela o bar podeerá gerenciar as mesas cadastradas, realizando modificações, adicionando ou removendo a mesa.</p>
+
+### Processo 8 – Gerenciar produtos
+
+<p align="justify"> Nessa tela o bar podeerá gerenciar os produtos cadastrados, realizando modificações de imagem, valor, adicionando ou removendo produtos e suas imagens.</p>
+
+### Processo 9 – Visualizar comanda
+
+<p align="justify"> Nessa tela o bar podeerá gerenciar os pedidos realizados, podendo visualizar o foi requisitado em cada mesa, se existem pedidos em aberto e enviando os produtos.</p>
 
 ## Diagrama de Fluxo
+
+<p align="justify"> Os diagramas de fluxos de processos descritos acima se encontram reproduzidos na imagem a seguir:</p>
 
 ![Documento de equipe](https://user-images.githubusercontent.com/91098261/192907205-18858d8f-8b7c-4727-956d-bbd9a2ccfff9.png)
 <p align="center"><b>Figura 1</b> - Diagrama de fluxo do usuário do projeto</p>
