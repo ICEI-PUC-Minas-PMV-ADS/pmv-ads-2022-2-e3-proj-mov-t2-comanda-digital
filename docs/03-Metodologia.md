@@ -83,5 +83,5 @@ As ferramentas empregadas no projeto são:
 | Codificação                                           | Visual Studio Code         |                                            
 | Comunicação                                           | Teams, Whatsapp            |                                           
 | Repositório, documentação e gerenciamento do projeto  |  Github                    | 
-| Projeto de Interface e Wireframes                     | Lucid Chart                |
+| Projeto de Interface, Wireframes, Protótipos          | Lucid Chart, MarvelAPP     |
 
