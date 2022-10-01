@@ -114,15 +114,6 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores.
-
-Usar o seguinte modelo:
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-
-Obs.: Todas as informações para gerar os indicadores devem estar no diagrama de classes a ser apresentado a posteriori.
-
-
 | # |Indicador | Objetivos |  Descrição |  Cálculo | Fonte dados |  Perspectiva|  
 |---|-----------|----------|-------------|---------|------------|-----------------------|
 | 1 | Eficácia de atendimento | Avaliar o percentual de atendimentos iniciados rapidamente|Percentual de atendimentos iniciados em menos de um minuto|(Atend.<1min/Atend.Total)/100 | Aplicação | Melhoria no atendimento |
