@@ -22,13 +22,13 @@ Segue tabela com cada caso de teste:
 |Ações esperadas |	1) Acessar a aplicação. 2) Clicar em fechar comanda. |
 |Critérios de êxito| A conta deverá ser fechada finalizando os pedidos e mostrando o valor da conta para o cliente. |
 
-|Caso de teste 03     | CT 06 -  Editar itens do Cardápio |
+|Caso de teste 03     | CT 03 -  Editar itens do Cardápio |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o item foi alterado corretamente |
 |Ações esperadas | 1) Acessar a aplicação. 2) Clicar em editar cardápio. |
 |Critérios de êxito| O item deverá ser editado |
 
-|Caso de teste 04     | CT 09 -  Apagar item do cardápio |
+|Caso de teste 04     | CT 04 -  Apagar item do cardápio |
 |-------|-------------------------
 |Objetivo do teste| Verificar se a funcionalidade de apagar item no sistema está funcionando adequadamente.  |
 |Ações esperadas |	1) Acessar a aplicação. 2) Clicar em Cardápio. 3) Selecionar item a ser excluído. 4) Excluir item do cardápio.|
