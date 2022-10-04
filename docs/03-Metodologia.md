@@ -15,7 +15,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentação do Projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital |
 | Projeto de Interface (Wireframes) | Lucidchart | https://lucid.app/documents/view/bf8c8345-99a7-4123-bbe9-936422fafdc0 |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/lmrA1giu/eixo-3-app-gest%C3%A3o-de-comanda |
-| Protótipo | MarvelApp | https://marvelapp.com/project/5873425
+| Protótipo | MarvelApp | https://marvelapp.com/prototype/a6d8hh5 |
 
 ## Controle de Versão
 
