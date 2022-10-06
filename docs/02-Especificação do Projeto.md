@@ -165,7 +165,7 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 <p align="justify">O diagrama abaixo ilustra as principais ligações entre casos de uso e os atores relacionados aos Requisitos Funcionais levantados para o projeto.</p>
 
-![Diagrama de Casos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png)
+![image](https://user-images.githubusercontent.com/91296105/194438848-e07cd028-3904-4299-9fc5-530e33c3cec7.png)
 
 <p align="center">
 <b>Figura 1 </b> – Diagrama de casos de uso.
