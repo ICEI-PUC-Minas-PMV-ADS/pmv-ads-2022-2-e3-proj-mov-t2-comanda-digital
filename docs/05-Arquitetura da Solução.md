@@ -10,19 +10,19 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-![image](https://user-images.githubusercontent.com/91296105/192067512-2e49e5b8-ed77-40ad-80df-9b6e20c36ee4.png)
+![image](https://user-images.githubusercontent.com/91296105/194436488-be55055f-2ab5-43ef-b99b-d74930b9e604.png)
 
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-![image](https://user-images.githubusercontent.com/91296105/192067569-007b6d4f-76a9-43ef-bff0-d4ba2ffb9d91.png)
+![image](https://user-images.githubusercontent.com/91296105/194436556-5d368535-2cc7-40e1-9239-df71075b942e.png)
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-![image](https://user-images.githubusercontent.com/91296105/192067613-110cb444-cddc-449d-a004-fb4460380949.png)
+![image](https://user-images.githubusercontent.com/91296105/194436583-3cc1c336-60b7-4da8-b39e-fbe47c67763c.png)
 
 ## Modelo Físico
 
