@@ -65,8 +65,7 @@ https://trello.com/b/lmrA1giu/eixo-3-app-gest%C3%A3o-de-comanda
 <br>
 Este quadro é apresentado, no estado atual, na figura a seguir:</p>
    
-![kanban_aplicao_escolar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/trellocomandadigital.png)
-<p align="center">  Tela do kanban (Trello) utilizada pelo grupo</p>
+![kanban_aplicao_escolar] colocar imagem atualizada aqui >  Tela do kanban (Trello) utilizada pelo grupo</p>
 <br>
 
 ### Ferramentas
