@@ -55,6 +55,13 @@
  <p align="justify"> Nesta tela o administrador poderá ver todas as mesas com pedidos, podendo visualizar os produtos requisitados e enviar o pedidos.</p>
  
  ![tela9](https://user-images.githubusercontent.com/91098261/192911449-4ffe87a6-00c3-4f0b-a9d2-99b8e1a58f62.png)
+ 
+ ## Protótipo Interativo 
+ 
+ O protótipo interativo das telas com suas funcionalidades encontra se disponível em https://marvelapp.com/prototype/a6d8hh5
+ 
+ 
+ 
 
 
 
