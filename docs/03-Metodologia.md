@@ -61,7 +61,7 @@ A equipe está organizada da seguinte maneira:
 
 <p align="justify">O quadro Kanban do grupo no Trello está disponível através da seguinte URL:
 <br>
-https://trello.com/b/lmrA1giu/eixo-3-app-gest%C3%A3o-de-comanda
+[./img/printtrello07.10.jpg]
 <br>
 Este quadro é apresentado, no estado atual, na figura a seguir:</p>
    
