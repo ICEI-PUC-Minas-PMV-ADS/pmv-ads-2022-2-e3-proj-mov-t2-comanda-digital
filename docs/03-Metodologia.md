@@ -60,12 +60,10 @@ A equipe está organizada da seguinte maneira:
 - **Concluído:** Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Pois já foram revisadas e aprovadas, não há mais edições ou revisões necessárias.
 
 <p align="justify">O quadro Kanban do grupo no Trello está disponível através da seguinte URL:
-<br>
-[./img/printtrello07.10.jpg]
-<br>
+
 Este quadro é apresentado, no estado atual, na figura a seguir:</p>
    
-![kanban_aplicao_escolar] colocar imagem atualizada aqui >  Tela do kanban (Trello) utilizada pelo grupo</p>
+![image](img/printtrello07.10.jpg)
 <br>
 
 ### Ferramentas
