@@ -59,7 +59,7 @@ A equipe está organizada da seguinte maneira:
 - **Em andamento:** Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 - **Concluído:** Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Pois já foram revisadas e aprovadas, não há mais edições ou revisões necessárias.
 
-<p align="justify">O quadro Kanban do grupo no Trello está disponível através da seguinte URL:
+<p align="justify">O quadro Kanban do grupo no Trello está disponível através da seguinte URL: https://trello.com/b/lmrA1giu/eixo-3-app-gest%C3%A3o-de-comanda
 
 Este quadro é apresentado, no estado atual, na figura a seguir:</p>
    
