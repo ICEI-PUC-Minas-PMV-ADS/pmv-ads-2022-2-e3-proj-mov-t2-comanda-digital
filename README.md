@@ -1,4 +1,4 @@
-# DigiCom - Comanda Digital;</p>
+# DigiCom - Comanda Digital</p>
 
 ![image](docs/img/logodigicom.png)
 <br>
