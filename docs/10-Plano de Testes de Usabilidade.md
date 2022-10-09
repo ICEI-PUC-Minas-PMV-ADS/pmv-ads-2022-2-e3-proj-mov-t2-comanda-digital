@@ -46,6 +46,11 @@ Segue tabela com cada caso de teste:
 |Ações esperadas |	1) Acessar a aplicação.	2) Adicionar itens ao pedido. 3) Confirmar pedido.|
 |Critérios de êxito| A notificação deve ser mostrada com sucesso ao garçom. |
 
+|Caso de teste 07     | CT 07 -  A aplicação deverá oferecer área de login para o estabelecimento. |
+|-------|-------------------------
+|Objetivo do teste| Verificar se o usuário do tipo estabelecimento consegue fazer login corretamente. |
+|Ações esperadas |	1) Acessar a aplicação.	2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. |
+|Critérios de êxito| Login efetuado com sucesso. |
 
 
 
