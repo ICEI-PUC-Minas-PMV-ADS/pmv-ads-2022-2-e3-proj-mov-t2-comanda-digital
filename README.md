@@ -1,4 +1,7 @@
-# Comanda Digital
+# DigiCom - Comanda Digital;</p>
+
+![image](docs/img/logodigicom.png)
+<br>
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
