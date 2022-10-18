@@ -130,12 +130,12 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 | ----- | ---------------------------------------------------------------------------------------------  | --------- |
 | RF-01 | A aplicação deverá exibir o cardápio de forma prática e detalhada.                             | Alta      |
 | RF-02 | A aplicação deverá permitir ao cliente abrir a comanda para fazer seu pedido.                  | Alta      |
-| RF-03 | A aplicação deverá notificar o pedido ao garçom  de forma instantaneamente.                    | Alta      |
-| RF-04 | A aplicação deverá permitir que o administrador visualize os resumos dos pedidos e as mesas.   | Alta      |
+| RF-03 | A aplicação deverá notificar o pedido ao garçom  de forma instantânea.                         | Alta      |
+| RF-04 | A aplicação deverá permitir que o administrador visualize os resumos dos pedidos e altere as mesas.   | Alta      |
 | RF-05 | A aplicação deverá permitir que o administrador acesse sua area de gerenciamento dos produtos. | Alta      |
-| RF-06 | A aplicação deverá permitir que o administrador acessar uma area de login.                     | Alta      |
+| RF-06 | A aplicação deverá permitir que o administrador acesse uma area de login.                     | Alta      |
 | RF-07 | A aplicação deverá permitir que o administrador possa cadastrar, editar e excluir seus produtos.| Alta      |
-| RF-08 | A aplicação deverá mostrar a prévia de sua conta ao cliente                                    | Média     |
+| RF-08 | A aplicação deverá mostrar a prévia de sua conta ao cliente.                                    | Média     |
 | RF-09 | A aplicação deverá permitir que o cliente peça o fechamento de sua conta.                      | Média     |
 | RF-10 | A aplicação deverá permitir que o cliente possa acompanhar o tempo do pedido pra ficar pronto. | Média     |
 
