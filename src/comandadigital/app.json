@@ -1,21 +1,20 @@
 {
   "expo": {
-    "name": "comandadigital",
-    "slug": "snack-bc533bdf-9205-48b8-b396-0b4ee2a0903b",
+    "name": "Puc-DigiCom",
+    "slug": "Puc-DigiCom",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
