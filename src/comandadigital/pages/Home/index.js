@@ -85,6 +85,7 @@ export default function App() {
             style={{
               width: logo.x,
               height: logo.y,
+              borderRadius: 15,
             }}
             source={require("../../assets/icon.png")}
           />
