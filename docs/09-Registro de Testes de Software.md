@@ -15,7 +15,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 |Caso de teste 03  | CT 03 - Notificação do pedido ao garçom |
 |-------|-------------------------|
-|Objetivo do teste|........................................|
+|Objetivo do teste| Verificar se o garçom é notificado quando houver um novo pedido.|
 |Resultados| ................................................ |
 
 
