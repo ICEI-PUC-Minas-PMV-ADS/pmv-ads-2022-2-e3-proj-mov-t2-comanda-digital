@@ -5,7 +5,7 @@ export default styles = StyleSheet.create({
     flex: 1,
     alignItems: "center",
     justifyContent: "center",
-    backgroundColor: "#363636",
+    backgroundColor: "#ffffff",
   },
 
   containerLogo: {
@@ -32,9 +32,9 @@ export default styles = StyleSheet.create({
   },
 
   buttonSubmit: {
-    backgroundColor: "#59BFFF",
+    backgroundColor: "#E6641F",
     width: "90%",
-    height: 45,
+    height: 70,
     alignItems: "center",
     justifyContent: "center",
     borderRadius: 7,
@@ -42,11 +42,11 @@ export default styles = StyleSheet.create({
 
   submitText: {
     color: "#FFF",
-    fontSize: 19,
+    fontSize: 25,
   },
 
   buttonRegister: {
-    marginTop: 10,
+    marginTop: 200,
   },
 
   buttonVoltaInicio: {
@@ -54,7 +54,6 @@ export default styles = StyleSheet.create({
   },
 
   registerText: {
-    color: "#FFF",
-    marginTop: 40,
+    color: "#000000",
   },
 });

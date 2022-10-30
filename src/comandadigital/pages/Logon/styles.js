@@ -4,20 +4,19 @@ import Constants from "expo-constants";
 export default StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: Constants.statusBarHeight + 60,
-    backgroundColor: "#ffff",
     alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "#000000",
   },
 
   description: {
     marginTop: 20,
-    color: "#737380",
-    fontWeight: "bold",
-    margin: 20,
+    color: "#ffffff",
   },
+
   input: {
     marginTop: 20,
-    margin: 5,
+    margin: 10,
     width: 300,
     height: 60,
     borderWidth: 1,
@@ -27,10 +26,10 @@ export default StyleSheet.create({
     borderRadius: 5,
   },
   button: {
-    marginTop: 30,
+    marginTop: 10,
     width: 300,
     height: 60,
-    backgroundColor: "#db6300",
+    backgroundColor: "#980e03",
     justifyContent: "center",
     alignItems: "center",
     borderRadius: 5,
@@ -38,10 +37,16 @@ export default StyleSheet.create({
   textButton: {
     color: "white",
     fontSize: 18,
-    fontWeight: "bold",
   },
-  image: {
-    borderRadius: 15,
-    marginBottom: 20,
+  containerLogo: {
+    flex: 1,
+    justifyContent: "center",
+  },
+  form: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    width: "90%",
+    paddingBottom: 25,
   },
 });

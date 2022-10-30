@@ -106,7 +106,7 @@ export default function App() {
         >
           <TouchableOpacity
             style={styles.buttonSubmit}
-            onPress={() => StackNav.navigate("Homescreen")}
+            onPress={() => StackNav.navigate("Tables")}
           >
             <Text style={styles.submitText}>Iniciar Mesa</Text>
           </TouchableOpacity>

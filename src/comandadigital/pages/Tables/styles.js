@@ -6,7 +6,7 @@ export default StyleSheet.create({
     flex: 1,
     paddingHorizontal: 15,
     paddingTop: Constants.statusBarHeight + 60,
-    backgroundColor: "#ffffff",
+    backgroundColor: "#000000",
   },
   header: {
     flexDirection: "row",
@@ -18,7 +18,7 @@ export default StyleSheet.create({
     color: "#ffffff",
   },
   item: {
-    backgroundColor: "#00FF7F",
+    backgroundColor: "#E6641F",
     alignItems: "center",
     justifyContent: "center",
     height: 100,
@@ -29,6 +29,6 @@ export default StyleSheet.create({
   },
   itemText: {
     color: "#ffffff",
-    fontSize: 20,
+    fontSize: 23,
   },
 });

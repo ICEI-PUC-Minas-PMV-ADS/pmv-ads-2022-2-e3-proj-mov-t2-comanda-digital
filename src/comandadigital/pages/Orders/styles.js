@@ -5,10 +5,10 @@ export default StyleSheet.create({
     flex: 1,
     paddingHorizontal: 15,
     paddingTop: Constants.statusBarHeight + 60,
-    backgroundColor: "#ffffff",
+    backgroundColor: "#000000",
   },
   header: {
-    backgroundColor: "#005390",
+    backgroundColor: "#000000",
     marginBottom: 5,
     borderRadius: 5,
   },
@@ -21,7 +21,7 @@ export default StyleSheet.create({
     fontSize: 18,
   },
   order: {
-    backgroundColor: "#fda430",
+    backgroundColor: "#E6641F",
     alignItems: "center",
     justifyContent: "center",
     height: 70,
@@ -31,13 +31,13 @@ export default StyleSheet.create({
     paddingHorizontal: 10,
   },
   orderText: {
-    color: "#000",
+    color: "#ffffff",
     fontWeight: "bold",
-    fontSize: 20,
+    fontSize: 18,
   },
 
   newOrder: {
-    backgroundColor: "#005390",
+    backgroundColor: "#E6641F",
     borderRadius: 5,
     textAlign: "center",
     alignItems: "center",
