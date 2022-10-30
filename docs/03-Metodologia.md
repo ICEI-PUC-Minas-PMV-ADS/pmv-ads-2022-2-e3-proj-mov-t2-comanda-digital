@@ -68,7 +68,7 @@ Quadro de apresentação referente à segunda etapa, na figura a seguir:</p>
 
 Quadro de apresentação referente à terceira etapa, na figura a seguir:</p>
    
-![image](img/printtrello07.10.jpg)
+![image](img/printtrello30.10.jpeg)
 <br>
 
 
