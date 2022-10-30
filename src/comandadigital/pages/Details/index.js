@@ -75,7 +75,7 @@ export default function Requests({ route }) {
           value={Intl.NumberFormat("pt-BR", {
             style: "currency",
             currency: "BRL",
-          
+          }).format(dataList[0].pedido.valor)}
         />
       </Form>
     </KeyboardAvoidingView>
