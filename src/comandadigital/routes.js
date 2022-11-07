@@ -14,27 +14,20 @@ const Stack = createStackNavigator();
 export default function Routes() {
   return (
     <NavigationContainer>
-      <Stack.Navigator
-        screenOptions={{
-          headerTransparent: true,
-          headerTintColor: "#333",
-          headerLeftContainerStyle: {
-            marginLeft: 20,
-          },
-        }}
-      >
+      <Stack.Navigator initialRouteName="Home">
         <Stack.Screen
           name="Home"
           component={Home}
           options={{
-            title: "",
+            header: () => null,
           }}
         />
+
         <Stack.Screen
           name="Logon"
           component={Logon}
           options={{
-            title: "",
+            header: () => null,
           }}
         />
         <Stack.Screen

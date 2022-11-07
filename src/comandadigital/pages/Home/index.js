@@ -11,7 +11,7 @@ import {
   Animated,
   Keyboard,
 } from "react-native";
-
+import Logo from "../../assets/Logo-vermelho.png";
 import styles from "./styles";
 
 export default function App() {
@@ -101,6 +101,7 @@ export default function App() {
                   translateY: offset.y,
                 },
               ],
+              useNativeDriver: true,
             },
           ]}
         >

@@ -1,0 +1,22 @@
+###USERS
+GET http://localhost:3000/users
+
+
+### REGISTER
+POST http://localhost:3000/register
+content-Type: application/json
+
+{
+    "name":"Vania",
+    "email": "vania@email.com",
+    "password": "senha"
+}
+
+### LOGIN
+POST http://localhost:3000/login
+content-Type: application/json
+
+{
+    "email":"andre@email.com",
+    "password": "senha"
+}

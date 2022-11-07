@@ -26,7 +26,7 @@ export default StyleSheet.create({
     borderRadius: 5,
   },
   button: {
-    marginTop: 10,
+    marginTop: 40,
     width: 300,
     height: 60,
     backgroundColor: "#980e03",
@@ -37,6 +37,7 @@ export default StyleSheet.create({
   textButton: {
     color: "white",
     fontSize: 18,
+    fontWeight: "bold",
   },
   containerLogo: {
     flex: 1,
@@ -48,5 +49,9 @@ export default StyleSheet.create({
     justifyContent: "center",
     width: "90%",
     paddingBottom: 25,
+  },
+  image: {
+    borderRadius: 15,
+    marginBottom: 30,
   },
 });

@@ -1,7 +1,12 @@
-import React from "react";
-
+import React, { useState } from "react";
+import UserProvider from "./pages/Contexts/userContext";
 import Routes from "./routes";
 
-export default function App() {
-  return <Routes />;
-}
+const App = () => {
+  return (
+    <UserProvider>
+      <Routes />
+    </UserProvider>
+  );
+};
+export default App;
