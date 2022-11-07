@@ -8,7 +8,7 @@ Segue tabela com cada caso de teste:
 |Caso de teste 01     | CT 01 - Abrir mesa |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o administrador efetua a abertura de comanda corretamente  |
-|Resultados | ..................... |
+|Resultados | Administrador abre comanda corretamente |
 |Melhoria| ................ |
 
 |Caso de teste 02     | CT 02 - Fechar mesa |
@@ -44,5 +44,5 @@ Segue tabela com cada caso de teste:
 |Caso de teste 07     | CT 07 -  A aplicação deverá oferecer área de login para o estabelecimento. |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o usuário do tipo estabelecimento consegue fazer login corretamente. |
-|Resultados |	..................................................... |
+|Resultados |	Administrador consegue efetuar o login |
 |Melhorias | ........................................... |
