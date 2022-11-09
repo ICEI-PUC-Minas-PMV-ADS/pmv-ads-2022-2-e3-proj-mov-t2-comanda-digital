@@ -27,7 +27,7 @@ export default function Logon({ navigation }) {
 
   //****INÍCIO - forma de cadastrar o usuário no BD sem necessidade de página de cadastro ****//
 
-  /*useEffect(() => {
+  useEffect(() => {
     createUserWithEmailAndPassword(auth, "teste1@email.com", "123456")
       .then((dadosDoUsuario) => {
         console.log(dadosDoUsuario);
@@ -36,7 +36,7 @@ export default function Logon({ navigation }) {
         console.log(error);
       });
   }, []);
-  */
+  
   //****FIM - forma de cadastrar o usuário no BD sem necessidade de página de cadastro ****//
 
   //****INÍCIO - função para realizar o login do usuário****//
