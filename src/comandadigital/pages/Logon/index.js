@@ -8,25 +8,27 @@ import {
   TextInput,
   TouchableOpacity,
   Alert,
+  KeyboardAvoidingView,
 } from "react-native";
 
 import { useNavigation } from "@react-navigation/native";
 import iconImg from "../../assets/icon.png";
 import styles from "./styles";
-import { Login } from "../../services/auth.services";
+
 import { logar } from "../../services/requisicoesFirebase";
 import { Tables } from "../Tables";
 
 export default function Logon({ navigation }) {
   //const navigation = useNavigation();
-  const [email, setEmail] = useState("teste@email.com");
-  const [senha, setSenha] = useState("123456");
+  const [email, setEmail] = useState("");
+  const [senha, setSenha] = useState("");
   const [statusError, setStatusError] = useState("");
   const [mensagemError, setMensagemError] = useState("");
 
   //****INÍCIO - forma de cadastrar o usuário no BD sem necessidade de página de cadastro ****//
-  useEffect(() => {
-    createUserWithEmailAndPassword(auth, "teste@email.com", "123456")
+
+  /*useEffect(() => {
+    createUserWithEmailAndPassword(auth, "teste1@email.com", "123456")
       .then((dadosDoUsuario) => {
         console.log(dadosDoUsuario);
       })
@@ -34,22 +36,20 @@ export default function Logon({ navigation }) {
         console.log(error);
       });
   }, []);
-
+  */
   //****FIM - forma de cadastrar o usuário no BD sem necessidade de página de cadastro ****//
 
   //****INÍCIO - função para realizar o login do usuário****//
   async function realizarLogin() {
     if (email == "") {
-      setMensagemError("O email é obrigatório!");
-      setStatusError("email");
+      Alert.alert("O email é obrigatório!");
     } else if (senha == "") {
-      setMensagemError("A senha é obrigatória!");
-      setStatusError("senha");
+      Alert.alert("A senha é obrigatória!");
     } else {
       const resultado = await logar(email, senha);
       if (resultado == "erro") {
         setStatusError("firebase");
-        setMensagemError("Email ou senha não conferem!");
+        Alert.alert("Email ou senha não conferem!");
       } else {
         navigation.navigate("Tables");
       }
@@ -61,7 +61,10 @@ export default function Logon({ navigation }) {
   //navigation.navigate("Tables");
   //}
   return (
-    <View style={styles.container}>
+    <KeyboardAvoidingView
+      behavior={Platform.OS === "ios" ? "padding" : "height"}
+      style={styles.container}
+    >
       <View style={styles.header}></View>
       <Image style={styles.image} source={iconImg} />
       <Text style={styles.description}>
@@ -89,6 +92,6 @@ export default function Logon({ navigation }) {
       <TouchableOpacity style={styles.button} onPress={() => realizarLogin()}>
         <Text style={styles.textButton}>Entrar</Text>
       </TouchableOpacity>
-    </View>
+    </KeyboardAvoidingView>
   );
 }

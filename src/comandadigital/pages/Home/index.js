@@ -39,12 +39,14 @@ export default function App() {
         toValue: 0,
         speed: 4,
         bounciness: 20,
+        useNativeDriver: true,
       }),
 
       // Anima um valor ao longo do tempo
       Animated.timing(opacity, {
         toValue: 1,
         duration: 200,
+        useNativeDriver: true,
       }),
     ]).start();
   });
@@ -54,11 +56,13 @@ export default function App() {
       Animated.timing(logo.x, {
         toValue: 95,
         duration: 100,
+        useNativeDriver: true,
       }),
 
       Animated.timing(logo.y, {
         toValue: 105,
         duration: 100,
+        useNativeDriver: true,
       }),
     ]).start();
   }
@@ -68,11 +72,13 @@ export default function App() {
       Animated.timing(logo.x, {
         toValue: 170,
         duration: 100,
+        useNativeDriver: true,
       }),
 
       Animated.timing(logo.y, {
         toValue: 195,
         duration: 100,
+        useNativeDriver: true,
       }),
     ]).start();
   }
@@ -86,6 +92,7 @@ export default function App() {
               width: logo.x,
               height: logo.y,
               borderRadius: 15,
+              useNativeDriver: true,
             }}
             source={require("../../assets/icon.png")}
           />
