@@ -21,6 +21,12 @@ export default function Orders({ route }) {
     });
   }
 
+  function navegaToCardapio(){
+    navigation.navigate("Cardapio", {
+      table,
+    });
+  }
+
   function navigateToDetails() {
     navigation.navigate("Details", {
       table,
@@ -54,9 +60,9 @@ export default function Orders({ route }) {
       <View style={styles.newOrder}>
         <TouchableOpacity
           style={styles.headerButton}
-          onPress={navigateToRequests}
+          onPress={navegaToCardapio}
         >
-          <Text style={styles.headerText}>Nova comanda</Text>
+          <Text style={styles.headerText}>Adicionar Pedido</Text>
         </TouchableOpacity>
       </View>
     </View>

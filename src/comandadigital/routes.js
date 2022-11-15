@@ -8,6 +8,7 @@ import Tables from "./pages/Tables";
 import Orders from "./pages/Orders";
 import Requests from "./pages/Requests";
 import Details from "./pages/Details";
+import Cardapio from "./components/PromotionsList";
 
 const Stack = createStackNavigator();
 
@@ -56,6 +57,13 @@ export default function Routes() {
           component={Details}
           options={{
             title: "Detalhes do pedido",
+          }}
+        />
+        <Stack.Screen
+          name="Cardapio"
+          component={Cardapio}
+          options={{
+            title: "Lista de produtos",
           }}
         />
       </Stack.Navigator>
