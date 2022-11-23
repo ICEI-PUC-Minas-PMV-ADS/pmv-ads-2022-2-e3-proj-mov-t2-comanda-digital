@@ -3,66 +3,90 @@
     {
       "id": 1,
       "nome": "Hambúrguer",
-      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
-      "preco": 8.5,
+      "descricao": "Pão, bife de hambúrguer 90g.",
+      "preco": 35.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-burguer-600x409.png",
+<<<<<<< Updated upstream
+      "imageUri":"colocar imagem 1",
+=======
+      "image": "../../assets/comida1.png",
+>>>>>>> Stashed changes
       "linkUrl":"#"
     },
     {
       "id": 2,
-      "nome": "X-Búrguer",
-      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-      "preco": 10.5,
+      "nome": "Pizza",
+      "descricao": "Pizza metade calabresa, metade mussarela",
+      "preco": 60.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-burguer-600x409.png",
+<<<<<<< Updated upstream
+      "imageUri":"colocar imagem 2",
+=======
+      "image": "../../assets/comida2.png",
+>>>>>>> Stashed changes
       "linkUrl":"#"
     },
     {
       "id": 3,
-      "nome": "X-Salada",
-      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-      "preco": 12.5,
+      "nome": "Croquete de carne",
+      "descricao": "Porção com 6 unidades de croquete de carne.",
+      "preco": 50.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-salada-1.jpg",
+<<<<<<< Updated upstream
+      "imageUri":"colocar imagem 3",
+=======
+      "image": "../../assets/comida3croquetedecarne.png",
+>>>>>>> Stashed changes
       "linkUrl":"#"
     },
     {
       "id": 4,
-      "nome": "X-Tudo",
-      "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
-      "preco": 14.5,
+      "nome": "Hambuguer e Batatas",
+      "descricao": "Hambuguer e batatas fritas.",
+      "preco": 60.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-tudo.jpg",
+<<<<<<< Updated upstream
+      "imageUri":"colocar imagem 4",
+=======
+      "image": "../../assets/combo3.png",
+>>>>>>> Stashed changes
       "linkUrl":"#"
     },
     {
       "id": 5,
-      "nome": "Coca cola 350ml",
-      "descricao": "",
-      "preco": 5.5,
+      "nome": "Suco de Laranja",
+      "descricao": "Suco de Laranja ",
+      "preco": 8.0,
       "categoria_id": 2,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/10\/latas.jpg",
+<<<<<<< Updated upstream
+      "imageUri":"colocar imagem 5",
+=======
+      "image": "../../assets/bebida1laranja.png",
+>>>>>>> Stashed changes
       "linkUrl":"#"
     },
     {
       "id": 6,
-      "nome": "Coca cola 600ml",
-      "descricao": "",
-      "preco": 7.5,
+      "nome": "Aperol",
+      "descricao": "Drink Aperol",
+      "preco": 22.5,
       "categoria_id": 2,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/10\/m_37351512688138.png",
+<<<<<<< Updated upstream
+      "imageUri":"colocar imagem 6",
+=======
+      "image": "../../assets/bebida2aperol.png",
+>>>>>>> Stashed changes
       "linkUrl":"#"
     }
   ],
   "categorias": [
     {
       "id": 1,
-      "nome": "Hambúrgueres"
+      "nome": "Comidas"
     },
     {
       "id": 2,
-      "nome": "Refrigerantes"
+      "nome": "Bebidas"
     }
   ],
   "carrinho": [
