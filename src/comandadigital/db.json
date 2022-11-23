@@ -6,7 +6,7 @@
       "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
       "preco": 8.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-burguer-600x409.png",
+      "imageUri":"colocar imagem 1",
       "linkUrl":"#"
     },
     {
@@ -15,7 +15,7 @@
       "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
       "preco": 10.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-burguer-600x409.png",
+      "imageUri":"colocar imagem 2",
       "linkUrl":"#"
     },
     {
@@ -24,7 +24,7 @@
       "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
       "preco": 12.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-salada-1.jpg",
+      "imageUri":"colocar imagem 3",
       "linkUrl":"#"
     },
     {
@@ -33,7 +33,7 @@
       "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
       "preco": 14.5,
       "categoria_id": 1,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/09\/x-tudo.jpg",
+      "imageUri":"colocar imagem 4",
       "linkUrl":"#"
     },
     {
@@ -42,7 +42,7 @@
       "descricao": "",
       "preco": 5.5,
       "categoria_id": 2,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/10\/latas.jpg",
+      "imageUri":"colocar imagem 5",
       "linkUrl":"#"
     },
     {
@@ -51,7 +51,7 @@
       "descricao": "",
       "preco": 7.5,
       "categoria_id": 2,
-      "imageUri":"https:\/\/loja.barracadoze.com.br\/wp-content\/uploads\/sites\/5\/2020\/10\/m_37351512688138.png",
+      "imageUri":"colocar imagem 6",
       "linkUrl":"#"
     }
   ],
