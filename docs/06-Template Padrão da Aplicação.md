@@ -6,9 +6,9 @@ O grupo atuante no presente trabalho desenvolveu um logo com formas de setas, se
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/83055d42bf7bf483061c2e4c081a618e911e887b/docs/img/Logo%20Projeto%20Comanda%20Digital%20DIGICOM.jpeg)
 
-As telas da aplicação foram desenvolvidas de acordo com o <a href="docs/05-Arquitetura da Solução.md"> Arquitetura de solução</a>, que traz em imagens a trajetórioa do usuário na aplicação. O [Marvel APP](https://marvelapp.com/project/5873425Marvel) App foi usado para criar essa sequência. Conforme telas abaixo:
+As telas da aplicação foram desenvolvidas de acordo com o <a href="docs/05-Arquitetura da Solução.md"> Arquitetura de solução</a>, que traz em imagens a trajetória do usuário na aplicação. O [Marvel APP](https://marvelapp.com/project/5873425Marvel) App foi usado para criar essa sequência. Conforme telas abaixo:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Sequencia%20de%20Telas_DIGICOM.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/wireframes.png)
 
 Em relação à paleta de cores, foi pensado em buscar as cores que são utilizadas em restaurantes para aumentar o número de vendas. O vermelho (logo) estimula o apetite e leva as pessoas à comerem mais, segundo pesquisas, além de criar um senso de urgência. O laranja está relacionado a compras impulsivas. E o fundo branco da aplicação para não cansar a vista do usuário e ficar mais harmônico.
 
