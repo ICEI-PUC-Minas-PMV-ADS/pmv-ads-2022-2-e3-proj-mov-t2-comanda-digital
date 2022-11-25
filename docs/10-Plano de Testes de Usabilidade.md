@@ -22,31 +22,7 @@ Segue tabela com cada caso de teste:
 |Ações esperadas |	1) Acessar a aplicação. 2) Clicar em fechar comanda. |
 |Critérios de êxito| A conta deverá ser fechada finalizando os pedidos e mostrando o valor da conta para o cliente. |
 
-|Caso de teste 03     | CT 03 -  Editar itens do Cardápio |
-|-------|-------------------------
-|Objetivo do teste| Verificar se o item foi alterado corretamente |
-|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em editar cardápio. |
-|Critérios de êxito| O item deverá ser editado |
-
-|Caso de teste 04     | CT 04 -  Apagar item do cardápio |
-|-------|-------------------------
-|Objetivo do teste| Verificar se a funcionalidade de apagar item no sistema está funcionando adequadamente.  |
-|Ações esperadas |	1) Acessar a aplicação. 2) Clicar em Cardápio. 3) Selecionar item a ser excluído. 4) Excluir item do cardápio.|
-|Critérios de êxito| O item deve ser apagado com sucesso e não estar mais disponível no sistema. |
-
-|Caso de teste 05    | CT 05 -  Cadastrar novo item ao Cardápio|
-|-------|-------------------------
-|Objetivo do teste| Verificar se o a funcionalidade de cadastrar novos itens no sistema está funcionando corretamente |
-|Ações esperadas |	1) Acessar a aplicação. 2) Clicar em Cardápio. 3) Clicar em adicionar item. 4) Cadastrar o item. 	 |
-|Critérios de êxito| O item deve ser cadastrado com sucesso. |
-
-|Caso de teste 06     | CT 06 -  A aplicação deverá notificar o pedido ao garçom |
-|-------|-------------------------
-|Objetivo do teste| Verificar se o usuário do tipo cliente consegue fazer seu pedido|
-|Ações esperadas |	1) Acessar a aplicação.	2) Adicionar itens ao pedido. 3) Confirmar pedido.|
-|Critérios de êxito| A notificação deve ser mostrada com sucesso ao garçom. |
-
-|Caso de teste 07     | CT 07 -  A aplicação deverá oferecer área de login para o estabelecimento. |
+|Caso de teste 03     | CT 03 -  A aplicação deverá oferecer área de login para o estabelecimento. |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o usuário do tipo estabelecimento consegue fazer login corretamente. |
 |Ações esperadas |	1) Acessar a aplicação.	2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. |
