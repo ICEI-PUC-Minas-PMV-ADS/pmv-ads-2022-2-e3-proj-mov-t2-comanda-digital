@@ -12,15 +12,21 @@ Será  possível medir o tempo para fazer cada teste, os erros e acertos acometi
 Segue tabela com cada caso de teste:
 |Caso de teste 01     | CT 01 - Abrir mesa |
 |-------|-------------------------
-|Objetivo do teste| Verificar se o administrador efetua a abertura de comanda corretamente  |
-|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em abrir comanda. 3) Selecionar mesa que será aberta a comanda |
+|Objetivo do teste| Verificar se o cliente consegue efetuar a abertura da mesa  |
+|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em iniciar mesa. 3) Selecionar mesa que será aberta a comanda |
 |Critérios de êxito| Uma comanda nova deverá ser aberta pelo administrador. |
 
-|Caso de teste 02     | CT 02 - Fechar mesa |
+|Caso de teste 02     | CT 02 - Adicionar pedido |
 |-------|-------------------------
-|Objetivo do teste|  Verificar se tanto o administrador como o cliente efetuam o fechamento da comanda corretamente |
-|Ações esperadas |	1) Acessar a aplicação. 2) Clicar em fechar comanda. |
-|Critérios de êxito| A conta deverá ser fechada finalizando os pedidos e mostrando o valor da conta para o cliente. |
+|Objetivo do teste| Verificar se a aplicação adiciona o pedido corretamente. |
+|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em iniciar mesa. 3) Selecionar mesa que será aberta a comanda. 4) Adicionar pedido |
+|Critérios de êxito| O pedido será adicionado. |
+
+|Caso de teste 02.1     | CT 02.1 - adicionar observação ao pedido |
+|-------|-------------------------
+|Objetivo do teste|  Verificar se a aplicação adiciona abservação no pedido corretamente |
+|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em iniciar mesa. 3) Selecionar mesa que será aberta a comanda. 4) Adicionar pedido 5) escolha o item a adicionado no pedido em seguida escrever observação no pedido. |
+|Critérios de êxito| Adicionar a observação no pedido corretamente. |
 
 |Caso de teste 03     | CT 03 -  A aplicação deverá oferecer área de login para o estabelecimento. |
 |-------|-------------------------
@@ -28,6 +34,11 @@ Segue tabela com cada caso de teste:
 |Ações esperadas |	1) Acessar a aplicação.	2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. |
 |Critérios de êxito| Login efetuado com sucesso. |
 
+|Caso de teste 04     | CT 04 - visualizar o pedido pelo administrador |
+|-------|-------------------------
+|Objetivo do teste|  Verificar se a aplicação adiciona abservação no pedido corretamente |
+|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. 4) escolher alguma mesa aberta. 5) clicar em pedido 1 e visualiza-lo. |
+|Critérios de êxito|Visualizar o pedido aberto na meda. |
 
 
 
