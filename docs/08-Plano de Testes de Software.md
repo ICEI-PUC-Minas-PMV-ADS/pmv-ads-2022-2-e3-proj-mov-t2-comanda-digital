@@ -25,7 +25,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |-------|-------------------------
 |Requisitos Associados | 	 RF-03 A aplicação deverá permitir que o administrador visualize os resumos dos pedidos e as mesas.
 |Objetivo do teste| Verificar se aplicação irá mostrar os pedidos e mesas para o administrador.  |
-|Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) clicar no menu lateral. 4) clicar em resumos de pedidos e ou gerenciar mesas|
+|Passos |	1) Acessar a aplicação. 2) Clicar em acesso estabelecimento e  efetuar login. 3) clicar no menu lateral. 4) clicar em resumos de pedidos. |
 |Critérios de êxito| O Administrador irá visualizar os resumos dos pedidos e as mesas. |
 
 |Caso de teste 04     | CT 04 -  Visualização da area de login |
@@ -42,7 +42,14 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Passos |	1) Acessar a aplicação.	2) clicar em iniciar mesa. 3) ir com pedido. 4) Confirmar pedido. 5)Fechar conta.|
 |Critérios de êxito| O cliente deverá conseguir efetuar o fechamento de sua conta. |
 
-|Caso de teste 06   | CT 06 - Testar responsividade do sistema em diferentes dispositivos |
+|Caso de teste 06     | CT 06 - adicionar observações em seu pedido. |
+|-------|-------------------------
+|Requisitos Associados | 	 RF-06 A aplicação deverá permitir que o cliente adicione observações em seu pedido. |
+|Objetivo do teste|  Verificar se o sistema permite o cliente e abrir a comanda para efetuar seu pedido. |
+|Passos |	1) Acessar a aplicação. 2) Clicar em iniciar mesa para efetuar o pedido. 3) colocar observações no pedido. |
+|Critérios de êxito| cliente poder inciar a mesa para efetuar o pedido. |
+
+|Caso de teste 07   | CT 07 - Testar responsividade do sistema em diferentes dispositivos |
 |-------|-------------------------
 |Requisitos Associados | 	 RNF-04 - A aplicação deverá ser responsiva.
 |Objetivo do teste| Verificar a responsividade da aplicação. |
