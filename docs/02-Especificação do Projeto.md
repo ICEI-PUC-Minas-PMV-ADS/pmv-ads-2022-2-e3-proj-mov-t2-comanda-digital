@@ -134,10 +134,9 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 | RF-04 | A aplicação deverá permitir que o administrador visualize os resumos dos pedidos e altere as mesas.   | Alta     |
 | RF-05 | A aplicação deverá permitir que o administrador acesse sua area de gerenciamento dos produtos. | Média      |
 | RF-06 | A aplicação deverá permitir que o administrador acesse uma area de login.                     | Alta     |
-| RF-07 | A aplicação deverá permitir que o administrador possa cadastrar, editar e excluir seus produtos.| Média      |
 | RF-08 | A aplicação deverá mostrar a prévia de sua conta ao cliente.                                    | Média     |
 | RF-09 | A aplicação deverá permitir que o cliente peça o fechamento de sua conta.                      | Média     |
-| RF-10 | A aplicação deverá permitir que o cliente possa acompanhar o tempo do pedido pra ficar pronto. | Média     |
+
 
 
 ### Requisitos não Funcionais
