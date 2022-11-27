@@ -14,7 +14,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Objetivo do teste|  Verificar se o sistema permite o cliente e abrir a comanda para efetuar seu pedido. |
 |Resultados| O funcionamento está de acordo com o objetivo.|
 
-![WhatsApp Image 2022-11-27 at 15 32 35](https://user-images.githubusercontent.com/90812412/204158882-7bcf0413-0f2a-4fff-a341-f4119dfb3b01.jpeg)
+![WhatsApp Image 2022-11-27 at 15 31 10](https://user-images.githubusercontent.com/90812412/204160724-212794f8-29ae-4e0b-923d-6caec1a14596.jpeg)
+ ![WhatsApp Image 2022-11-27 at 15 32 35](https://user-images.githubusercontent.com/90812412/204158882-7bcf0413-0f2a-4fff-a341-f4119dfb3b01.jpeg)
 
 |Caso de teste 03  | CT 03 - Visualização de pedidos pelo administrador |
 |-------|-------------------------
@@ -36,7 +37,9 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Objetivo do teste| Verificar se o cliente consegue pedir o fechamento de sua conta.|
 |Resultados|  O funcionamento está de acordo com o objetivo. |
 
-![WhatsApp Image 2022-11-27 at 15 33 49](https://user-images.githubusercontent.com/90812412/204160479-23ab6625-def4-4b97-ba1d-b7c9dc5e4bb7.jpeg)
+![WhatsApp Image 2022-11-27 at 15 32 51](https://user-images.githubusercontent.com/90812412/204161049-218531c3-9b27-4e11-b467-46fc2c0fe9b8.jpeg) ![WhatsApp Image 2022-11-27 at 15 34 29](https://user-images.githubusercontent.com/90812412/204161198-43a9c570-a49e-466e-95dd-972bfab9e8f9.jpeg)
+
+
 
 |Caso de teste 06 | CT 06 - adicionar observações em seu pedido. |
 |-------|-------------------------
