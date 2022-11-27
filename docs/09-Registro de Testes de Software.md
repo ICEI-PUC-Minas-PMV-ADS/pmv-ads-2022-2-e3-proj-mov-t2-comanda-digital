@@ -7,11 +7,15 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Objetivo do teste| Verificar se aplicação irá exibir corretamente o cardápio.|
 |Resultado | 	O funcionamento está de acordo com o objetivo.|
 
+![WhatsApp Image 2022-11-27 at 15 33 09](https://user-images.githubusercontent.com/90812412/204158597-21cd5251-a057-46ab-821b-fd42fd93c321.jpeg)
 
 |Caso de teste 02 | CT 02 - Abrir a comanda para fazer o pedido|
 |-------|-------------------------
 |Objetivo do teste|  Verificar se o sistema permite o cliente e abrir a comanda para efetuar seu pedido. |
 |Resultados| O funcionamento está de acordo com o objetivo.|
+
+![WhatsApp Image 2022-11-27 at 15 32 35](https://user-images.githubusercontent.com/90812412/204158882-7bcf0413-0f2a-4fff-a341-f4119dfb3b01.jpeg)
+
 
 |Caso de teste 03  | CT 03 - Visualização de pedidos pelo administrador |
 |-------|-------------------------
