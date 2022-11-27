@@ -16,11 +16,12 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ![WhatsApp Image 2022-11-27 at 15 32 35](https://user-images.githubusercontent.com/90812412/204158882-7bcf0413-0f2a-4fff-a341-f4119dfb3b01.jpeg)
 
-
 |Caso de teste 03  | CT 03 - Visualização de pedidos pelo administrador |
 |-------|-------------------------
 |Objetivo do teste| Verificar se aplicação irá mostrar os pedidos e mesas para o administrador.  |
 |Resultados| O funcionamento está de acordo com o objetivo.|
+
+![WhatsApp Image 2022-11-27 at 15 34 17](https://user-images.githubusercontent.com/90812412/204160627-26e5616c-30f4-49d4-948a-d87b8d5b1423.jpeg)
 
 |Caso de teste 04  | CT 04 - Visualização da área de login |
 |-------|-------------------------
@@ -34,6 +35,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |-------|-------------------------
 |Objetivo do teste| Verificar se o cliente consegue pedir o fechamento de sua conta.|
 |Resultados|  O funcionamento está de acordo com o objetivo. |
+
+![WhatsApp Image 2022-11-27 at 15 33 49](https://user-images.githubusercontent.com/90812412/204160479-23ab6625-def4-4b97-ba1d-b7c9dc5e4bb7.jpeg)
 
 |Caso de teste 06 | CT 06 - adicionar observações em seu pedido. |
 |-------|-------------------------
