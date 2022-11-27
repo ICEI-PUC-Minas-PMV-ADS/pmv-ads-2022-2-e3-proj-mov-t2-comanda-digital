@@ -36,15 +36,10 @@ Segue tabela com cada caso de teste:
 
 |Caso de teste 04     | CT 04 - visualizar o pedido pelo administrador |
 |-------|-------------------------
-|Objetivo do teste|  Verificar se a aplicação adiciona abservação no pedido corretamente |
+|Objetivo do teste|  Verificar se o administrador visualiza o pedido dos clientes.|
 |Ações esperadas | 1) Acessar a aplicação. 2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. 4) escolher alguma mesa aberta. 5) clicar em pedido 1 e visualiza-lo. |
-|Critérios de êxito|Visualizar o pedido aberto na meda. |
+|Critérios de êxito|Visualizar o pedidos dos clientes pelo administrador |
 
-|Caso de teste 05    | CT 05 - Autenticação do sistema login |
-|-------|-------------------------
-|Objetivo do teste|  Verificar se o sistema funciona corretamente. |
-|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. |
-|Critérios de êxito|O sistema funcionar corretamente. |
 
 
 
