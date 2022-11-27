@@ -23,6 +23,9 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Objetivo do teste| Verificar se aplicação irá mostrar area de login.  |
 |Resultados| O funcionamento está de acordo com o objetivo. |
 
+![WhatsApp Image 2022-11-27 at 15 32 22](https://user-images.githubusercontent.com/90812412/204158237-562aeb65-34fa-46b9-a224-25760ef8840f.jpeg)
+
+
 |Caso de teste 05  | CT 05 - Fechamento de conta |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o cliente consegue pedir o fechamento de sua conta.|
