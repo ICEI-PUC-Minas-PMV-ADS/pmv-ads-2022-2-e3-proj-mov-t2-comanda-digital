@@ -37,8 +37,11 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 |Caso de teste 06 | CT 06 - adicionar observações em seu pedido. |
 |-------|-------------------------
-|Objetivo do teste| Verificar se o sistema permite o cliente e abrir a comanda para efetuar seu pedido.|
+|Objetivo do teste| Verificar se o sistema permite o cliente, abrir a comanda para efetuar seu pedido e incluir sua observação.|
 |Resultados| O funcionamento está de acordo com o objetivo. |
+
+![WhatsApp Image 2022-11-27 at 15 33 49](https://user-images.githubusercontent.com/90812412/204159425-eba39da8-68ae-4b84-bab8-ab8820b0ac5a.jpeg) ![WhatsApp Image 2022-11-27 at 15 34 03](https://user-images.githubusercontent.com/90812412/204159579-60b90489-b40e-4f53-b83a-a1fa19ef35b2.jpeg)
+
 
 |Caso de teste 07 | CT 07 - Testar responsividade do sistema em diferentes dispositivos |
 |-------|-------------------------
