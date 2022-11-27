@@ -5,7 +5,7 @@ export default StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 15,
-    paddingTop: Constants.statusBarHeight + 45,
+    paddingTop: Constants.statusBarHeight + 1,
     backgroundColor: "#000000",
   },
   header: {
@@ -14,7 +14,7 @@ export default StyleSheet.create({
     alignItems: "center",
     // backgroundColor: '#005390',
     marginBottom: 20,
-    height: 50,
+    height: 30,
     color: "#ffffff",
   },
   item: {
