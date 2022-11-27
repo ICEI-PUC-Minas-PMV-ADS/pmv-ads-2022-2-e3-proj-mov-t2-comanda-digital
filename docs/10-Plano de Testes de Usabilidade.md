@@ -40,6 +40,11 @@ Segue tabela com cada caso de teste:
 |Ações esperadas | 1) Acessar a aplicação. 2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. 4) escolher alguma mesa aberta. 5) clicar em pedido 1 e visualiza-lo. |
 |Critérios de êxito|Visualizar o pedido aberto na meda. |
 
+|Caso de teste 05    | CT 05 - Autenticação do sistema login |
+|-------|-------------------------
+|Objetivo do teste|  Verificar se o sistema funciona corretamente. |
+|Ações esperadas | 1) Acessar a aplicação. 2) Clicar em Acesso ao estabelecimento. 3) Digitar login e senha. |
+|Critérios de êxito|O sistema funcionar corretamente. |
 
 
 
