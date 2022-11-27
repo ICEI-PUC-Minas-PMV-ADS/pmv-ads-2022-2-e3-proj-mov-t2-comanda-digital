@@ -29,8 +29,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Objetivo do teste| Verificar se aplicação irá mostrar area de login.  |
 |Resultados| O funcionamento está de acordo com o objetivo. |
 
-![WhatsApp Image 2022-11-27 at 15 32 22](https://user-images.githubusercontent.com/90812412/204158237-562aeb65-34fa-46b9-a224-25760ef8840f.jpeg)
-
+![WhatsApp Image 2022-11-27 at 15 31 10 (1)](https://user-images.githubusercontent.com/90812412/204161675-f75f9f97-b2da-4a61-b564-c34be8d1ad9c.jpeg) ![WhatsApp Image 2022-11-27 at 15 32 22](https://user-images.githubusercontent.com/90812412/204158237-562aeb65-34fa-46b9-a224-25760ef8840f.jpeg)
 
 |Caso de teste 05  | CT 05 - Fechamento de conta |
 |-------|-------------------------
