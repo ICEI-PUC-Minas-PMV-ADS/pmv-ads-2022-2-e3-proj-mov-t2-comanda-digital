@@ -16,13 +16,13 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-![image](https://user-images.githubusercontent.com/91296105/204117055-fb591f7c-ecc6-4984-b8a7-853bca137e59.png)
+![image](https://user-images.githubusercontent.com/91296105/204161056-4b50c152-d20b-451e-ad29-06579c319d16.png)
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-![image](https://user-images.githubusercontent.com/91296105/204116666-39960f96-0941-4f7c-ab43-f39f52b9a3ad.png)
+![image](https://user-images.githubusercontent.com/91296105/204160699-3a8c83ef-9e42-432a-aa1b-9e46808a6d07.png)
 
 ## Modelo Físico
 
