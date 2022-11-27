@@ -8,41 +8,29 @@ Segue tabela com cada caso de teste:
 |Caso de teste 01     | CT 01 - Abrir mesa |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o administrador efetua a abertura de comanda corretamente  |
-|Resultados | Administrador abre comanda corretamente |
+|Resultados | Administrador ou cliente consegue abrir comanda corretamente |
 |Melhoria| ................ |
 
-|Caso de teste 02     | CT 02 - Fechar mesa |
+|Caso de teste 02    | CT 02 - Adicionar pedido |
 |-------|-------------------------
-|Objetivo do teste|  Verificar se tanto o administrador como o cliente efetuam o fechamento da comanda corretamente |
-|Resultados |	........................... |
-|Melhorias| ...................................... |
+|Objetivo do teste| Verificar se a aplicação adiciona o pedido corretamente|
+|Resultados | A funcionalidade funciona corretamente |
+|Melhoria| ................ |
 
-|Caso de teste 03     | CT 03 -  Editar itens do Cardápio |
+|Caso de teste 02.1   | CT 02.1 - adicionar observação ao pedido |
 |-------|-------------------------
-|Objetivo do teste| Verificar se o item foi alterado corretamente |
-|Resultados | ........................................ |
-|Melhorias| .................................. |
+|Objetivo do teste| Verificar se a aplicação adiciona abservação no pedido corretamente|
+|Resultados | A funcionalidade funciona corretamente |
+|Melhoria| ................ |
 
-|Caso de teste 04     | CT 04 -  Apagar item do cardápio |
-|-------|-------------------------
-|Objetivo do teste| Verificar se a funcionalidade de apagar item no sistema está funcionando adequadamente.  |
-|Resultados |	...........................................|
-|Melhorias|............................................ |
-
-|Caso de teste 05    | CT 05 -  Cadastrar novo item ao Cardápio|
-|-------|-------------------------
-|Objetivo do teste| Verificar se o a funcionalidade de cadastrar novos itens no sistema está funcionando corretamente |
-|Resultados |	............................................ 	 |
-|Melhorias| ............................. |
-
-|Caso de teste 06     | CT 06 -  A aplicação deverá notificar o pedido ao garçom |
-|-------|-------------------------
-|Objetivo do teste| Verificar se o usuário do tipo cliente consegue fazer seu pedido|
-|Resultados |...........................................|
-|Melhorias| ........................................ |
-
-|Caso de teste 07     | CT 07 -  A aplicação deverá oferecer área de login para o estabelecimento. |
+|Caso de teste 03    | CT 03 -  A aplicação deverá oferecer área de login para o estabelecimento. |
 |-------|-------------------------
 |Objetivo do teste| Verificar se o usuário do tipo estabelecimento consegue fazer login corretamente. |
-|Resultados |	Administrador consegue efetuar o login |
+|Resultados |	A funcionalidade funciona corretamente |
 |Melhorias | ........................................... |
+
+|Caso de teste 04   | CT 04 - visualizar o pedido pelo administrador. |
+|-------|-------------------------
+|Objetivo do teste| Verificar se a aplicação adiciona abservação no pedido corretamente|
+|Resultados | A funcionalidade funciona corretamente |
+|Melhoria| ................ |
