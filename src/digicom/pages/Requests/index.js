@@ -18,7 +18,7 @@ export default function Requests({ route }) {
   const navigation = useNavigation();
   
   function addPedido(prd,precoPrd,pedidoOBS){
-    navigation.navigate("Orders", {table,pedidoOBS,prd,precoPrd});
+    navigation.navigate("Orders2", {table,pedidoOBS,prd,precoPrd});
   }
 
   return (

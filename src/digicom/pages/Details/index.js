@@ -3,81 +3,56 @@ import "intl/locale-data/jsonp/pt-BR";
 import React from "react";
 import {
   View,
-  KeyboardAvoidingView,
+  TouchableOpacity,
   Text,
 } from "react-native";
 
+import { useNavigation } from "@react-navigation/native";
 import styles from "./styles";
-import { Form, FormInput } from "./styledComponent";
+
 
 export default function Requests({ route }) {
   const { table } = route.params;
+  
+  const navigation = useNavigation();
+
+  function voltarTelaAnterior(prd,precoPrd,pedidoOBS){
+    navigation.navigate("Orders2", {table});
+  }
 
   const dataList = [
     {
       pedido: {
         ficha: "13",
-        produto: "Salada Cesar",
+        produto: "X-Salada",
         numCozinha: "1",
-        observacao: "Sem cebola. Adicionar azeite",
-        valor: "39.9",
+        observacao: "Bem passado",
+        valor: "15.50",
       },
     },
   ];
 
   return (
-    <KeyboardAvoidingView style={styles.container}>
+    <View style={styles.container}>
       <View style={styles.header}>
         <View style={styles.headerButton}>
           <Text style={styles.headerText}>Pedidos: {table}</Text>
         </View>
+      </View>      
+
+      <Text style={ styles.titleText }>Produto: {dataList[0].pedido.produto }</Text>
+      <Text style={ styles.priceText }>Preço: { dataList[0].pedido.valor }</Text>
+      <Text style={ styles.titleText }>OBS: {dataList[0].pedido.observacao }</Text>
+
+      <View style={styles.container}>
+      <TouchableOpacity
+          style={styles.newOrder}
+          onPress={voltarTelaAnterior}
+        >
+          <Text style={styles.headerText}>Voltar</Text>
+        </TouchableOpacity>
       </View>
-      <Form>
-        <FormInput
-          label="Ficha"
-          autoCorrect={false}
-          autoCapitalize="none"
-          placeholder="Ficha"
-          returnKeyType="next"
-          value={dataList[0].pedido.ficha}
-          disabled
-        />
-        <FormInput
-          label="Nº Cozinha"
-          autoCorrect={false}
-          autoCapitalize="none"
-          placeholder="Nº Cozinha"
-          returnKeyType="next"
-          value={dataList[0].pedido.numCozinha}
-        />
-        <FormInput
-          label="Produto"
-          autoCorrect={false}
-          autoCapitalize="none"
-          placeholder="Produto"
-          returnKeyType="next"
-          value={dataList[0].pedido.produto}
-        />
-        <FormInput
-          label="Observação"
-          autoCorrect={false}
-          autoCapitalize="none"
-          placeholder="Observação"
-          returnKeyType="next"
-          value={dataList[0].pedido.observacao}
-        />
-        <FormInput
-          label="Valor"
-          autoCorrect={false}
-          autoCapitalize="none"
-          placeholder="Valor"
-          returnKeyType="next"
-          value={Intl.NumberFormat("pt-BR", {
-            style: "currency",
-            currency: "BRL",
-          }).format(dataList[0].pedido.valor)}
-        />
-      </Form>
-    </KeyboardAvoidingView>
+
+    </View>
   );
 }

@@ -1,17 +1,19 @@
 import { StyleSheet } from "react-native";
+import Constants from "expo-constants";
 export default StyleSheet.create({
-  promotionsList: {
-    minHeight: '100%',
-    maxHeight: '100%',
-    backgroundColor: '#000000'
+  container: {
+    flex: 1,
+    paddingHorizontal: 15,
+    paddingTop: Constants.statusBarHeight + 10,
+    backgroundColor: "#000000",
   },
-  
   header: {
     backgroundColor: "#980e03",
     marginBottom: 0,
     borderRadius: 5,
   },
   headerButton: {
+
     paddingHorizontal: 30,
     paddingVertical: 20,
   },

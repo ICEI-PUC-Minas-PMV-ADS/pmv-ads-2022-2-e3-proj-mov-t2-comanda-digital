@@ -12,12 +12,16 @@ export default StyleSheet.create({
     marginBottom: 5,
     borderRadius: 5,
   },
-  headerButton: {
+  headerButton: {    
+    height: 70,    
+    margin: 4,
+    borderRadius: 5,
+    borderColor:"#000000",
     paddingHorizontal: 30,
     paddingVertical: 20,
   },
   headerText: {
-    textAlign:"center",
+    textAlign: "center",
     color: "#fff",
     fontSize: 18,
   },
@@ -39,6 +43,13 @@ export default StyleSheet.create({
 
   newOrder: {
     backgroundColor: "#E6641F",
+    borderRadius: 5,
+    textAlign: "center",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  newOrder2: {
+    backgroundColor: "#980e03",
     borderRadius: 5,
     textAlign: "center",
     alignItems: "center",

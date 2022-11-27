@@ -6,10 +6,12 @@ import Home from "./pages/Home";
 import Logon from "./pages/Logon";
 import Tables from "./pages/Tables";
 import Orders from "./pages/Orders";
+import Orders2 from "./pages/Orders2";
 import Requests from "./pages/Requests";
 import Details from "./pages/Details";
 import Cardapio from "./pages/Cardapio";
 import AddOrder from "./pages/AddOrder";
+import Sucesso from "./pages/Sucesso";
 
 const Stack = createStackNavigator();
 
@@ -47,6 +49,13 @@ export default function Routes() {
           }}
         />
         <Stack.Screen
+          name="Orders2"
+          component={Orders2}
+          options={{
+            title: "Pedidos",
+          }}
+        />
+        <Stack.Screen
           name="Requests"
           component={Requests}
           options={{
@@ -72,6 +81,13 @@ export default function Routes() {
           component={AddOrder}
           options={{
             title: "Adiciona Pedido",
+          }}
+        />
+        <Stack.Screen
+          name="Sucesso"
+          component={Sucesso}
+          options={{
+            title: "Pedido Sucesso",
           }}
         />
       </Stack.Navigator>

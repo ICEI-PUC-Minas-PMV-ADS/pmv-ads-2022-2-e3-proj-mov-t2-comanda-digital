@@ -4,8 +4,9 @@ import { useNavigation } from "@react-navigation/native";
 
 import styles from "./styles";
 
- dataList = [
-  { key: "Pedido 1" },  
+ const dataList2 = [
+  
+  { key: "Pedido realizado com sucesso!" },    
 ];
 
 export default function Orders({ route }) {
@@ -16,21 +17,8 @@ export default function Orders({ route }) {
 
   const navigation = useNavigation();
 
-  
-  function navegaToCardapio(){
-    navigation.navigate("Cardapio", {
-      table,
-    });
-  }
-
-  function navigateToDetails() {
-    navigation.navigate("Details", {
-      table,
-    });
-  }
-
   function FinalizeOrder() {
-    navigation.navigate("Sucesso", {
+    navigation.navigate("Tables", {
       table,
     });
   }
@@ -38,14 +26,13 @@ export default function Orders({ route }) {
   _renderItem = ({ item, index }) => {
     return (
       <View style={styles.order}>
-        <TouchableOpacity onPress={navigateToDetails}>
+        <TouchableOpacity >
           <Text style={styles.orderText}>{item.key}</Text>
         </TouchableOpacity>
       </View>
     );
   };
 
-  
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -55,29 +42,18 @@ export default function Orders({ route }) {
       </View>      
 
       <FlatList
-        data={dataList}
+        data={dataList2}
         renderItem={_renderItem}
         keyExtractor={(item, index) => index.toString()}
       />
-
+      
       <View style={styles.newOrder}>
-        <TouchableOpacity
+      <TouchableOpacity
           style={styles.headerButton}
-          onPress={navegaToCardapio}
+          onPress={FinalizeOrder}
         >
-          <Text style={styles.headerText}>Adicionar Pedido</Text>
+          <Text style={styles.headerText}>Voltar para Mesas</Text>
         </TouchableOpacity>
-      </View>
-
-      <View style={styles.container}>
-      <View style={styles.header}>
-          <TouchableOpacity
-              style={styles.headerButton}
-              onPress={FinalizeOrder}
-            >
-              <Text style={styles.headerText}>Finalizar Pedido</Text>
-            </TouchableOpacity>
-        </View>
       </View>
     </View>
   );

@@ -4,8 +4,9 @@ import { useNavigation } from "@react-navigation/native";
 
 import styles from "./styles";
 
- dataList = [
+ const dataList2 = [
   { key: "Pedido 1" },  
+  { key: "Pedido 2" },  
 ];
 
 export default function Orders({ route }) {
@@ -45,7 +46,6 @@ export default function Orders({ route }) {
     );
   };
 
-  
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -55,7 +55,7 @@ export default function Orders({ route }) {
       </View>      
 
       <FlatList
-        data={dataList}
+        data={dataList2}
         renderItem={_renderItem}
         keyExtractor={(item, index) => index.toString()}
       />
@@ -66,18 +66,16 @@ export default function Orders({ route }) {
           onPress={navegaToCardapio}
         >
           <Text style={styles.headerText}>Adicionar Pedido</Text>
-        </TouchableOpacity>
+        </TouchableOpacity>        
       </View>
-
-      <View style={styles.container}>
-      <View style={styles.header}>
-          <TouchableOpacity
-              style={styles.headerButton}
-              onPress={FinalizeOrder}
-            >
-              <Text style={styles.headerText}>Finalizar Pedido</Text>
-            </TouchableOpacity>
-        </View>
+      
+      <View style={styles.newOrder2}>
+      <TouchableOpacity
+          style={styles.headerButton}
+          onPress={FinalizeOrder}
+        >
+          <Text style={styles.headerText}>Finaliza Pedido</Text>
+        </TouchableOpacity>
       </View>
     </View>
   );
