@@ -162,8 +162,7 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 <p align="justify">O diagrama abaixo ilustra as principais ligações entre casos de uso e os atores relacionados aos Requisitos Funcionais levantados para o projeto.</p>
 
-![image](https://user-images.githubusercontent.com/91296105/204105701-d38e9763-b8a3-4e94-b3f5-acb6ab132fdd.png)
-
+![image](https://user-images.githubusercontent.com/91296105/204160268-a7c3f592-fa1a-4c65-aad8-0bae836669ce.png)
 
 <p align="center">
 <b>Figura 1 </b> – Diagrama de casos de uso.
