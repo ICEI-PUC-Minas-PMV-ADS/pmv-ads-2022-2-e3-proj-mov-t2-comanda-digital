@@ -71,6 +71,10 @@ Quadro de apresentação referente à terceira etapa, na figura a seguir:</p>
 ![image](img/printtrello30.10.jpeg)
 <br>
 
+Quadro de apresentação referente a quarta etapa na figura a seguir:</p>
+![image](img/quadrotrelloquartaetapa.jpg)
+<br>
+
 
 ### Ferramentas
 
