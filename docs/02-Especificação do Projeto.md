@@ -237,4 +237,4 @@ Serviços = 6 despesas (energia, hospedagem) x R$ 50,00/Mês x 4 Meses = R$ 1.20
 
 ![Gerenciamento de cronograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto-1.png)
 
-● ![Gerenciamento de cronograma Excel](<https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto%20-%20Comanda%20(1).xlsx>)
+● ![Gerenciamento de cronograma Excel](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-digital/blob/main/docs/img/Cronograma%20projeto%20-%20Comanda%20final.xlsx)
